@@ -1,0 +1,6 @@
+# America/New_York clock
+
+Current local time in America/New_York.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-new-york/mcp)

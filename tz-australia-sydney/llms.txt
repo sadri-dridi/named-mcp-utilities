@@ -1,0 +1,6 @@
+# Australia/Sydney clock
+
+Current local time in Australia/Sydney.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-sydney/mcp)

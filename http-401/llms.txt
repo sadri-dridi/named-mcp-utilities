@@ -1,0 +1,6 @@
+# HTTP 401 unauthorized
+
+Meaning of HTTP 401.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-401/mcp)

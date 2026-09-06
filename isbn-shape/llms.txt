@@ -1,0 +1,6 @@
+# ISBN digit shape
+
+ISBN digit shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isbn-shape/mcp)

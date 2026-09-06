@@ -1,0 +1,6 @@
+# UTC weekday name
+
+UTC weekday name
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekday-utc/mcp)

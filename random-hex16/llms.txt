@@ -1,0 +1,6 @@
+# 16 random hex chars
+
+16 random hex chars
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/random-hex16/mcp)

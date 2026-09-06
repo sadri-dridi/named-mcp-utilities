@@ -1,0 +1,52 @@
+# Named MCP utilities
+
+Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
+
+- [Unix epoch seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-now/mcp) — `io.github.sadri-dridi/unix-now`
+- [Unix epoch milliseconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/epoch-ms/mcp) — `io.github.sadri-dridi/epoch-ms`
+- [ISO week number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-week/mcp) — `io.github.sadri-dridi/iso-week`
+- [RFC 3339 UTC stamp](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rfc3339-now/mcp) — `io.github.sadri-dridi/rfc3339-now`
+- [UTC weekday name](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekday-utc/mcp) — `io.github.sadri-dridi/weekday-utc`
+- [Leap year check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/leap-year/mcp) — `io.github.sadri-dridi/leap-year`
+- [JSON validity](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-ok/mcp) — `io.github.sadri-dridi/json-ok`
+- [Email shape, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/email-shape/mcp) — `io.github.sadri-dridi/email-shape`
+- [SemVer numbers only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/semver-parse/mcp) — `io.github.sadri-dridi/semver-parse`
+- [JWT header shape, payload discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jwt-header/mcp) — `io.github.sadri-dridi/jwt-header`
+- [Slug character check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slug-ok/mcp) — `io.github.sadri-dridi/slug-ok`
+- [Base64 encode, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base64-ok/mcp) — `io.github.sadri-dridi/base64-ok`
+- [SHA-256, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha256-ok/mcp) — `io.github.sadri-dridi/sha256-ok`
+- [Hex color to RGB](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-rgb/mcp) — `io.github.sadri-dridi/hex-rgb`
+- [Celsius to Fahrenheit](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/c-to-f/mcp) — `io.github.sadri-dridi/c-to-f`
+- [Kilometers to miles](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/km-to-mi/mcp) — `io.github.sadri-dridi/km-to-mi`
+- [UUID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-shape/mcp) — `io.github.sadri-dridi/uuid-shape`
+- [ULID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ulid-shape/mcp) — `io.github.sadri-dridi/ulid-shape`
+- [Nano ID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nanoid-shape/mcp) — `io.github.sadri-dridi/nanoid-shape`
+- [URL host only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-host/mcp) — `io.github.sadri-dridi/url-host`
+- [Punycode host check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/punycode-ok/mcp) — `io.github.sadri-dridi/punycode-ok`
+- [application/json marker](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-json/mcp) — `io.github.sadri-dridi/mime-json`
+- [IPv4 or IPv6, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ip-version/mcp) — `io.github.sadri-dridi/ip-version`
+- [Word count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/word-count/mcp) — `io.github.sadri-dridi/word-count`
+- [16 hex chars](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-16/mcp) — `io.github.sadri-dridi/hex-16`
+- [Weekday vs weekend](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/business-day/mcp) — `io.github.sadri-dridi/business-day`
+- [ISO ordinal day](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-ordinal/mcp) — `io.github.sadri-dridi/iso-ordinal`
+- [America/New_York clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-new-york/mcp) — `io.github.sadri-dridi/tz-america-new-york`
+- [America/Los_Angeles clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-los-angeles/mcp) — `io.github.sadri-dridi/tz-america-los-angeles`
+- [Europe/Paris clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-paris/mcp) — `io.github.sadri-dridi/tz-europe-paris`
+- [Asia/Tokyo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tokyo/mcp) — `io.github.sadri-dridi/tz-asia-tokyo`
+- [Asia/Shanghai clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-shanghai/mcp) — `io.github.sadri-dridi/tz-asia-shanghai`
+- [Australia/Sydney clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-sydney/mcp) — `io.github.sadri-dridi/tz-australia-sydney`
+- [HTTP 404 not-found](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-404/mcp) — `io.github.sadri-dridi/http-404`
+- [HTTP 200 ok](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-200/mcp) — `io.github.sadri-dridi/http-200`
+- [HTTP 500 internal-error](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-500/mcp) — `io.github.sadri-dridi/http-500`
+- [HTTP 401 unauthorized](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-401/mcp) — `io.github.sadri-dridi/http-401`
+- [HTTP 429 too-many-requests](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-429/mcp) — `io.github.sadri-dridi/http-429`
+- [Currency USD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-usd/mcp) — `io.github.sadri-dridi/fx-usd`
+- [Currency EUR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-eur/mcp) — `io.github.sadri-dridi/fx-eur`
+- [ISO country US](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-us/mcp) — `io.github.sadri-dridi/cc-us`
+- [Language en](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-en/mcp) — `io.github.sadri-dridi/lang-en`
+- [Port 443](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-443/mcp) — `io.github.sadri-dridi/port-443`
+- [CSS hex color shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/color-hex-ok/mcp) — `io.github.sadri-dridi/color-hex-ok`
+- [ISBN digit shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isbn-shape/mcp) — `io.github.sadri-dridi/isbn-shape`
+- [E.164 shape, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/phone-e164-shape/mcp) — `io.github.sadri-dridi/phone-e164-shape`
+- [UTC year](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/year-utc/mcp) — `io.github.sadri-dridi/year-utc`
+- [16 random hex chars](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/random-hex16/mcp) — `io.github.sadri-dridi/random-hex16`

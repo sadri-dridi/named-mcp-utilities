@@ -1,0 +1,6 @@
+# Slug character check
+
+Slug character check
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slug-ok/mcp)
