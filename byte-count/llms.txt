@@ -1,0 +1,6 @@
+# Byte count, text discarded
+
+Byte count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/byte-count/mcp)

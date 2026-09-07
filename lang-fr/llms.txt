@@ -1,0 +1,6 @@
+# Language fr
+
+ISO 639 language tag fr.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fr/mcp)

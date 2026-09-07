@@ -1,0 +1,6 @@
+# Pacific/Auckland clock
+
+Current local time in Pacific/Auckland.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-auckland/mcp)

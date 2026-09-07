@@ -1,0 +1,6 @@
+# URL path only
+
+URL path only
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-path/mcp)

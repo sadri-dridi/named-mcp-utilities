@@ -1,0 +1,6 @@
+# ISO 8601 duration shape
+
+ISO 8601 duration shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-duration/mcp)

@@ -1,0 +1,6 @@
+# Language zh
+
+ISO 639 language tag zh.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-zh/mcp)

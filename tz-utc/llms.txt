@@ -1,0 +1,6 @@
+# UTC clock
+
+Current local time in UTC.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-utc/mcp)
