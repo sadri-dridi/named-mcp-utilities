@@ -1,0 +1,6 @@
+# Africa/Accra clock
+
+Current local time in Africa/Accra.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-accra/mcp)

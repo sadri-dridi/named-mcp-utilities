@@ -1,0 +1,6 @@
+# Asia/Omsk clock
+
+Current local time in Asia/Omsk.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-omsk/mcp)

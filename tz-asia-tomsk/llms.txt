@@ -1,0 +1,6 @@
+# Asia/Tomsk clock
+
+Current local time in Asia/Tomsk.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tomsk/mcp)

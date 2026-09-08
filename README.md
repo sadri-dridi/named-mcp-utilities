@@ -2,97 +2,51 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Unix epoch seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-now/mcp) — `io.github.sadri-dridi/unix-now`
-- [Unix epoch milliseconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/epoch-ms/mcp) — `io.github.sadri-dridi/epoch-ms`
-- [ISO week number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-week/mcp) — `io.github.sadri-dridi/iso-week`
-- [RFC 3339 UTC stamp](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rfc3339-now/mcp) — `io.github.sadri-dridi/rfc3339-now`
-- [UTC weekday name](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekday-utc/mcp) — `io.github.sadri-dridi/weekday-utc`
-- [Leap year check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/leap-year/mcp) — `io.github.sadri-dridi/leap-year`
-- [JSON validity](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-ok/mcp) — `io.github.sadri-dridi/json-ok`
-- [Email shape, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/email-shape/mcp) — `io.github.sadri-dridi/email-shape`
-- [SemVer numbers only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/semver-parse/mcp) — `io.github.sadri-dridi/semver-parse`
-- [JWT header shape, payload discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jwt-header/mcp) — `io.github.sadri-dridi/jwt-header`
-- [Slug character check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slug-ok/mcp) — `io.github.sadri-dridi/slug-ok`
-- [Base64 encode, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base64-ok/mcp) — `io.github.sadri-dridi/base64-ok`
-- [SHA-256, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha256-ok/mcp) — `io.github.sadri-dridi/sha256-ok`
-- [Hex color to RGB](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-rgb/mcp) — `io.github.sadri-dridi/hex-rgb`
-- [Celsius to Fahrenheit](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/c-to-f/mcp) — `io.github.sadri-dridi/c-to-f`
-- [Kilometers to miles](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/km-to-mi/mcp) — `io.github.sadri-dridi/km-to-mi`
-- [UUID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-shape/mcp) — `io.github.sadri-dridi/uuid-shape`
-- [ULID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ulid-shape/mcp) — `io.github.sadri-dridi/ulid-shape`
-- [Nano ID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nanoid-shape/mcp) — `io.github.sadri-dridi/nanoid-shape`
-- [URL host only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-host/mcp) — `io.github.sadri-dridi/url-host`
-- [Punycode host check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/punycode-ok/mcp) — `io.github.sadri-dridi/punycode-ok`
-- [application/json marker](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-json/mcp) — `io.github.sadri-dridi/mime-json`
-- [IPv4 or IPv6, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ip-version/mcp) — `io.github.sadri-dridi/ip-version`
-- [Word count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/word-count/mcp) — `io.github.sadri-dridi/word-count`
-- [16 hex chars](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-16/mcp) — `io.github.sadri-dridi/hex-16`
-- [Weekday vs weekend](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/business-day/mcp) — `io.github.sadri-dridi/business-day`
-- [ISO ordinal day](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-ordinal/mcp) — `io.github.sadri-dridi/iso-ordinal`
-- [America/New_York clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-new-york/mcp) — `io.github.sadri-dridi/tz-america-new-york`
-- [America/Los_Angeles clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-los-angeles/mcp) — `io.github.sadri-dridi/tz-america-los-angeles`
-- [Europe/Paris clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-paris/mcp) — `io.github.sadri-dridi/tz-europe-paris`
-- [Asia/Tokyo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tokyo/mcp) — `io.github.sadri-dridi/tz-asia-tokyo`
-- [Asia/Shanghai clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-shanghai/mcp) — `io.github.sadri-dridi/tz-asia-shanghai`
-- [Australia/Sydney clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-sydney/mcp) — `io.github.sadri-dridi/tz-australia-sydney`
-- [HTTP 404 not-found](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-404/mcp) — `io.github.sadri-dridi/http-404`
-- [HTTP 200 ok](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-200/mcp) — `io.github.sadri-dridi/http-200`
-- [HTTP 500 internal-error](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-500/mcp) — `io.github.sadri-dridi/http-500`
-- [HTTP 401 unauthorized](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-401/mcp) — `io.github.sadri-dridi/http-401`
-- [HTTP 429 too-many-requests](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-429/mcp) — `io.github.sadri-dridi/http-429`
-- [Currency USD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-usd/mcp) — `io.github.sadri-dridi/fx-usd`
-- [Currency EUR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-eur/mcp) — `io.github.sadri-dridi/fx-eur`
-- [ISO country US](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-us/mcp) — `io.github.sadri-dridi/cc-us`
-- [Language en](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-en/mcp) — `io.github.sadri-dridi/lang-en`
-- [Port 443](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-443/mcp) — `io.github.sadri-dridi/port-443`
-- [CSS hex color shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/color-hex-ok/mcp) — `io.github.sadri-dridi/color-hex-ok`
-- [ISBN digit shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isbn-shape/mcp) — `io.github.sadri-dridi/isbn-shape`
-- [E.164 shape, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/phone-e164-shape/mcp) — `io.github.sadri-dridi/phone-e164-shape`
-- [UTC year](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/year-utc/mcp) — `io.github.sadri-dridi/year-utc`
-- [16 random hex chars](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/random-hex16/mcp) — `io.github.sadri-dridi/random-hex16`
-- [Language es](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-es/mcp) — `io.github.sadri-dridi/lang-es`
-- [Language zh](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-zh/mcp) — `io.github.sadri-dridi/lang-zh`
-- [Language ja](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ja/mcp) — `io.github.sadri-dridi/lang-ja`
-- [Language de](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-de/mcp) — `io.github.sadri-dridi/lang-de`
-- [Language fr](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fr/mcp) — `io.github.sadri-dridi/lang-fr`
-- [Language pt](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-pt/mcp) — `io.github.sadri-dridi/lang-pt`
-- [Language ar](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ar/mcp) — `io.github.sadri-dridi/lang-ar`
-- [Language ko](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ko/mcp) — `io.github.sadri-dridi/lang-ko`
-- [Language it](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-it/mcp) — `io.github.sadri-dridi/lang-it`
-- [Language nl](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-nl/mcp) — `io.github.sadri-dridi/lang-nl`
-- [Language ru](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ru/mcp) — `io.github.sadri-dridi/lang-ru`
-- [Language hi](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-hi/mcp) — `io.github.sadri-dridi/lang-hi`
-- [Europe/London clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-london/mcp) — `io.github.sadri-dridi/tz-europe-london`
-- [Europe/Berlin clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-berlin/mcp) — `io.github.sadri-dridi/tz-europe-berlin`
-- [UTC clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-utc/mcp) — `io.github.sadri-dridi/tz-utc`
-- [America/Chicago clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-chicago/mcp) — `io.github.sadri-dridi/tz-america-chicago`
-- [America/Denver clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-denver/mcp) — `io.github.sadri-dridi/tz-america-denver`
-- [Asia/Singapore clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-singapore/mcp) — `io.github.sadri-dridi/tz-asia-singapore`
-- [Asia/Hong_Kong clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-hong-kong/mcp) — `io.github.sadri-dridi/tz-asia-hong-kong`
-- [Europe/Madrid clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-madrid/mcp) — `io.github.sadri-dridi/tz-europe-madrid`
-- [Pacific/Auckland clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-auckland/mcp) — `io.github.sadri-dridi/tz-pacific-auckland`
-- [Europe/Amsterdam clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-amsterdam/mcp) — `io.github.sadri-dridi/tz-europe-amsterdam`
-- [HTTP 403 forbidden](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-403/mcp) — `io.github.sadri-dridi/http-403`
-- [HTTP 204 no-content](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-204/mcp) — `io.github.sadri-dridi/http-204`
-- [HTTP 301 moved-permanently](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-301/mcp) — `io.github.sadri-dridi/http-301`
-- [HTTP 503 unavailable](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-503/mcp) — `io.github.sadri-dridi/http-503`
-- [HTTP 302 found](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-302/mcp) — `io.github.sadri-dridi/http-302`
-- [URL origin only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-origin/mcp) — `io.github.sadri-dridi/url-origin`
-- [URL path only](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-path/mcp) — `io.github.sadri-dridi/url-path`
-- [Character count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/char-count/mcp) — `io.github.sadri-dridi/char-count`
-- [Byte count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/byte-count/mcp) — `io.github.sadri-dridi/byte-count`
-- [SHA-1, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha1-ok/mcp) — `io.github.sadri-dridi/sha1-ok`
-- [Hex encode, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-ok/mcp) — `io.github.sadri-dridi/hex-ok`
-- [JSON byte count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-bytes/mcp) — `io.github.sadri-dridi/json-bytes`
-- [UTC hour](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hour-utc/mcp) — `io.github.sadri-dridi/hour-utc`
-- [UTC month name](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/month-name/mcp) — `io.github.sadri-dridi/month-name`
-- [UTC weekday 1-7](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekday-number/mcp) — `io.github.sadri-dridi/weekday-number`
-- [ISO 8601 duration shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-duration/mcp) — `io.github.sadri-dridi/iso-duration`
-- [ISO country GB](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-gb/mcp) — `io.github.sadri-dridi/cc-gb`
-- [ISO country DE](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-de/mcp) — `io.github.sadri-dridi/cc-de`
-- [ISO country JP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-jp/mcp) — `io.github.sadri-dridi/cc-jp`
-- [ISO country FR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-fr/mcp) — `io.github.sadri-dridi/cc-fr`
-- [ISO country IN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-in/mcp) — `io.github.sadri-dridi/cc-in`
-- [ISO country BR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-br/mcp) — `io.github.sadri-dridi/cc-br`
-- [Fahrenheit to Celsius](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/f-to-c/mcp) — `io.github.sadri-dridi/f-to-c`
-- [Miles to kilometers](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mi-to-km/mcp) — `io.github.sadri-dridi/mi-to-km`
+- [America/Toronto clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-toronto/mcp) — `io.github.sadri-dridi/tz-america-toronto`
+- [Europe/Rome clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-rome/mcp) — `io.github.sadri-dridi/tz-europe-rome`
+- [GMT clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-gmt/mcp) — `io.github.sadri-dridi/tz-gmt`
+- [HTTP 100 continue](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-100/mcp) — `io.github.sadri-dridi/http-100`
+- [HTTP 101 switching-protocols](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-101/mcp) — `io.github.sadri-dridi/http-101`
+- [HTTP 102 processing](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-102/mcp) — `io.github.sadri-dridi/http-102`
+- [ISO country CN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cn/mcp) — `io.github.sadri-dridi/cc-cn`
+- [ISO country KR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-kr/mcp) — `io.github.sadri-dridi/cc-kr`
+- [ISO country AU](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-au/mcp) — `io.github.sadri-dridi/cc-au`
+- [Kilobytes to megabytes](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/kb-to-mb/mcp) — `io.github.sadri-dridi/kb-to-mb`
+- [Bytes to MiB](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bytes-mib/mcp) — `io.github.sadri-dridi/bytes-mib`
+- [Hours to seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hr-to-sec/mcp) — `io.github.sadri-dridi/hr-to-sec`
+- [UTC minute](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/minute-utc/mcp) — `io.github.sadri-dridi/minute-utc`
+- [UTC quarter](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/quarter-utc/mcp) — `io.github.sadri-dridi/quarter-utc`
+- [UTC cron five-field shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cron-utc-hint/mcp) — `io.github.sadri-dridi/cron-utc-hint`
+- [Whether a zone name looks like DST-aware](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dst-hint/mcp) — `io.github.sadri-dridi/dst-hint`
+- [Etc/GMT clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-etc-gmt/mcp) — `io.github.sadri-dridi/tz-etc-gmt`
+- [Etc/UTC clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-etc-utc/mcp) — `io.github.sadri-dridi/tz-etc-utc`
+- [Asia/Aden clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-aden/mcp) — `io.github.sadri-dridi/tz-asia-aden`
+- [Asia/Baku clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-baku/mcp) — `io.github.sadri-dridi/tz-asia-baku`
+- [Asia/Dili clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-dili/mcp) — `io.github.sadri-dridi/tz-asia-dili`
+- [Asia/Gaza clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-gaza/mcp) — `io.github.sadri-dridi/tz-asia-gaza`
+- [Asia/Omsk clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-omsk/mcp) — `io.github.sadri-dridi/tz-asia-omsk`
+- [Asia/Amman clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-amman/mcp) — `io.github.sadri-dridi/tz-asia-amman`
+- [Asia/Chita clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-chita/mcp) — `io.github.sadri-dridi/tz-asia-chita`
+- [Asia/Dhaka clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-dhaka/mcp) — `io.github.sadri-dridi/tz-asia-dhaka`
+- [Asia/Kabul clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kabul/mcp) — `io.github.sadri-dridi/tz-asia-kabul`
+- [Asia/Macau clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-macau/mcp) — `io.github.sadri-dridi/tz-asia-macau`
+- [Asia/Qatar clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-qatar/mcp) — `io.github.sadri-dridi/tz-asia-qatar`
+- [Asia/Tomsk clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tomsk/mcp) — `io.github.sadri-dridi/tz-asia-tomsk`
+- [UTC offset hours](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-offset-utc/mcp) — `io.github.sadri-dridi/tz-offset-utc`
+- [Asia/Almaty clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-almaty/mcp) — `io.github.sadri-dridi/tz-asia-almaty`
+- [Asia/Beirut clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-beirut/mcp) — `io.github.sadri-dridi/tz-asia-beirut`
+- [Asia/Brunei clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-brunei/mcp) — `io.github.sadri-dridi/tz-asia-brunei`
+- [Asia/Hebron clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-hebron/mcp) — `io.github.sadri-dridi/tz-asia-hebron`
+- [Asia/Kuwait clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kuwait/mcp) — `io.github.sadri-dridi/tz-asia-kuwait`
+- [Asia/Manila clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-manila/mcp) — `io.github.sadri-dridi/tz-asia-manila`
+- [Asia/Muscat clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-muscat/mcp) — `io.github.sadri-dridi/tz-asia-muscat`
+- [Asia/Riyadh clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-riyadh/mcp) — `io.github.sadri-dridi/tz-asia-riyadh`
+- [Asia/Taipei clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-taipei/mcp) — `io.github.sadri-dridi/tz-asia-taipei`
+- [Asia/Tehran clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tehran/mcp) — `io.github.sadri-dridi/tz-asia-tehran`
+- [Asia/Urumqi clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-urumqi/mcp) — `io.github.sadri-dridi/tz-asia-urumqi`
+- [Asia/Yangon clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-yangon/mcp) — `io.github.sadri-dridi/tz-asia-yangon`
+- [Europe/Kyiv clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-kyiv/mcp) — `io.github.sadri-dridi/tz-europe-kyiv`
+- [Europe/Oslo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-oslo/mcp) — `io.github.sadri-dridi/tz-europe-oslo`
+- [Europe/Riga clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-riga/mcp) — `io.github.sadri-dridi/tz-europe-riga`
+- [Africa/Accra clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-accra/mcp) — `io.github.sadri-dridi/tz-africa-accra`
+- [Africa/Ceuta clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-ceuta/mcp) — `io.github.sadri-dridi/tz-africa-ceuta`

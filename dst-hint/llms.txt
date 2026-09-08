@@ -1,0 +1,6 @@
+# Whether a zone name looks like DST-aware
+
+Whether a zone name looks like DST-aware
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dst-hint/mcp)

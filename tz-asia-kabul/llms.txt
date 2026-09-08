@@ -1,0 +1,6 @@
+# Asia/Kabul clock
+
+Current local time in Asia/Kabul.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kabul/mcp)

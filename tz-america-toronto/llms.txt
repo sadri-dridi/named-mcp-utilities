@@ -1,0 +1,6 @@
+# America/Toronto clock
+
+Current local time in America/Toronto.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-toronto/mcp)

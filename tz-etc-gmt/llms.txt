@@ -1,0 +1,6 @@
+# Etc/GMT clock
+
+Current local time in Etc/GMT.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-etc-gmt/mcp)

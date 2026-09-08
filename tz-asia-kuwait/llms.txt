@@ -1,0 +1,6 @@
+# Asia/Kuwait clock
+
+Current local time in Asia/Kuwait.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kuwait/mcp)

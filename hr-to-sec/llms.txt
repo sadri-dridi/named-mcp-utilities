@@ -1,0 +1,6 @@
+# Hours to seconds
+
+Hours to seconds
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hr-to-sec/mcp)

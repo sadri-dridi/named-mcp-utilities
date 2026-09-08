@@ -1,0 +1,6 @@
+# Asia/Urumqi clock
+
+Current local time in Asia/Urumqi.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-urumqi/mcp)
