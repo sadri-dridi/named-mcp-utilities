@@ -1,0 +1,6 @@
+# GitHub Repo Shape
+
+Parse owner and repo from a GitHub URL. Path discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/github-repo-shape/mcp)

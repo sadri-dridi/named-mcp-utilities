@@ -1,0 +1,6 @@
+# News Feed Count
+
+Count items in a public RSS or Atom feed. Titles discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/news-feed-count/mcp)

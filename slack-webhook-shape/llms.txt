@@ -1,0 +1,6 @@
+# Slack Webhook Shape
+
+Check a Slack webhook URL shape. Secret discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slack-webhook-shape/mcp)

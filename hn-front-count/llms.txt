@@ -1,0 +1,6 @@
+# HN Front Count
+
+Count current Hacker News front-page stories. Titles discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hn-front-count/mcp)

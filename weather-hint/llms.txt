@@ -1,0 +1,6 @@
+# Weather Hint
+
+Current temperature for a city via Open-Meteo. Query discarded after the call.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weather-hint/mcp)

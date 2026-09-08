@@ -1,0 +1,6 @@
+# Web Fetch
+
+HTTP status and content type for a public URL. Body discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/web-fetch/mcp)

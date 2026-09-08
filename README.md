@@ -2,51 +2,19 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [America/Toronto clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-toronto/mcp) — `io.github.sadri-dridi/tz-america-toronto`
-- [Europe/Rome clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-rome/mcp) — `io.github.sadri-dridi/tz-europe-rome`
-- [GMT clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-gmt/mcp) — `io.github.sadri-dridi/tz-gmt`
-- [HTTP 100 continue](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-100/mcp) — `io.github.sadri-dridi/http-100`
-- [HTTP 101 switching-protocols](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-101/mcp) — `io.github.sadri-dridi/http-101`
-- [HTTP 102 processing](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-102/mcp) — `io.github.sadri-dridi/http-102`
-- [ISO country CN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cn/mcp) — `io.github.sadri-dridi/cc-cn`
-- [ISO country KR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-kr/mcp) — `io.github.sadri-dridi/cc-kr`
-- [ISO country AU](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-au/mcp) — `io.github.sadri-dridi/cc-au`
-- [Kilobytes to megabytes](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/kb-to-mb/mcp) — `io.github.sadri-dridi/kb-to-mb`
-- [Bytes to MiB](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bytes-mib/mcp) — `io.github.sadri-dridi/bytes-mib`
-- [Hours to seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hr-to-sec/mcp) — `io.github.sadri-dridi/hr-to-sec`
-- [UTC minute](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/minute-utc/mcp) — `io.github.sadri-dridi/minute-utc`
-- [UTC quarter](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/quarter-utc/mcp) — `io.github.sadri-dridi/quarter-utc`
-- [UTC cron five-field shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cron-utc-hint/mcp) — `io.github.sadri-dridi/cron-utc-hint`
-- [Whether a zone name looks like DST-aware](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dst-hint/mcp) — `io.github.sadri-dridi/dst-hint`
-- [Etc/GMT clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-etc-gmt/mcp) — `io.github.sadri-dridi/tz-etc-gmt`
-- [Etc/UTC clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-etc-utc/mcp) — `io.github.sadri-dridi/tz-etc-utc`
-- [Asia/Aden clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-aden/mcp) — `io.github.sadri-dridi/tz-asia-aden`
-- [Asia/Baku clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-baku/mcp) — `io.github.sadri-dridi/tz-asia-baku`
-- [Asia/Dili clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-dili/mcp) — `io.github.sadri-dridi/tz-asia-dili`
-- [Asia/Gaza clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-gaza/mcp) — `io.github.sadri-dridi/tz-asia-gaza`
-- [Asia/Omsk clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-omsk/mcp) — `io.github.sadri-dridi/tz-asia-omsk`
-- [Asia/Amman clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-amman/mcp) — `io.github.sadri-dridi/tz-asia-amman`
-- [Asia/Chita clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-chita/mcp) — `io.github.sadri-dridi/tz-asia-chita`
-- [Asia/Dhaka clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-dhaka/mcp) — `io.github.sadri-dridi/tz-asia-dhaka`
-- [Asia/Kabul clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kabul/mcp) — `io.github.sadri-dridi/tz-asia-kabul`
-- [Asia/Macau clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-macau/mcp) — `io.github.sadri-dridi/tz-asia-macau`
-- [Asia/Qatar clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-qatar/mcp) — `io.github.sadri-dridi/tz-asia-qatar`
-- [Asia/Tomsk clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tomsk/mcp) — `io.github.sadri-dridi/tz-asia-tomsk`
-- [UTC offset hours](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-offset-utc/mcp) — `io.github.sadri-dridi/tz-offset-utc`
-- [Asia/Almaty clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-almaty/mcp) — `io.github.sadri-dridi/tz-asia-almaty`
-- [Asia/Beirut clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-beirut/mcp) — `io.github.sadri-dridi/tz-asia-beirut`
-- [Asia/Brunei clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-brunei/mcp) — `io.github.sadri-dridi/tz-asia-brunei`
-- [Asia/Hebron clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-hebron/mcp) — `io.github.sadri-dridi/tz-asia-hebron`
-- [Asia/Kuwait clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kuwait/mcp) — `io.github.sadri-dridi/tz-asia-kuwait`
-- [Asia/Manila clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-manila/mcp) — `io.github.sadri-dridi/tz-asia-manila`
-- [Asia/Muscat clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-muscat/mcp) — `io.github.sadri-dridi/tz-asia-muscat`
-- [Asia/Riyadh clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-riyadh/mcp) — `io.github.sadri-dridi/tz-asia-riyadh`
-- [Asia/Taipei clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-taipei/mcp) — `io.github.sadri-dridi/tz-asia-taipei`
-- [Asia/Tehran clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-tehran/mcp) — `io.github.sadri-dridi/tz-asia-tehran`
-- [Asia/Urumqi clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-urumqi/mcp) — `io.github.sadri-dridi/tz-asia-urumqi`
-- [Asia/Yangon clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-yangon/mcp) — `io.github.sadri-dridi/tz-asia-yangon`
-- [Europe/Kyiv clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-kyiv/mcp) — `io.github.sadri-dridi/tz-europe-kyiv`
-- [Europe/Oslo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-oslo/mcp) — `io.github.sadri-dridi/tz-europe-oslo`
-- [Europe/Riga clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-riga/mcp) — `io.github.sadri-dridi/tz-europe-riga`
-- [Africa/Accra clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-accra/mcp) — `io.github.sadri-dridi/tz-africa-accra`
-- [Africa/Ceuta clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-ceuta/mcp) — `io.github.sadri-dridi/tz-africa-ceuta`
+- [Web Fetch](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/web-fetch/mcp) — `io.github.sadri-dridi/web-fetch`
+- [Fetch Status](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fetch-status/mcp) — `io.github.sadri-dridi/fetch-status`
+- [GitHub Repo Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/github-repo-shape/mcp) — `io.github.sadri-dridi/github-repo-shape`
+- [Git Ref Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/git-ref-shape/mcp) — `io.github.sadri-dridi/git-ref-shape`
+- [Search Query Length](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/search-query-len/mcp) — `io.github.sadri-dridi/search-query-len`
+- [Weather Hint](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weather-hint/mcp) — `io.github.sadri-dridi/weather-hint`
+- [News Feed Count](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/news-feed-count/mcp) — `io.github.sadri-dridi/news-feed-count`
+- [HN Front Count](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hn-front-count/mcp) — `io.github.sadri-dridi/hn-front-count`
+- [Memory Key Count](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/memory-key-count/mcp) — `io.github.sadri-dridi/memory-key-count`
+- [File Path Check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/file-path-ok/mcp) — `io.github.sadri-dridi/file-path-ok`
+- [Browser URL Check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/browser-url-ok/mcp) — `io.github.sadri-dridi/browser-url-ok`
+- [Postgres URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/postgres-url-shape/mcp) — `io.github.sadri-dridi/postgres-url-shape`
+- [Slack Webhook Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slack-webhook-shape/mcp) — `io.github.sadri-dridi/slack-webhook-shape`
+- [Think Steps](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/think-steps/mcp) — `io.github.sadri-dridi/think-steps`
+- [arXiv ID Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arxiv-id-shape/mcp) — `io.github.sadri-dridi/arxiv-id-shape`
+- [DOI Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/doi-shape/mcp) — `io.github.sadri-dridi/doi-shape`

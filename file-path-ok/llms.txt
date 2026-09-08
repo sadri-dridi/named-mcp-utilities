@@ -1,0 +1,6 @@
+# File Path Check
+
+Check whether a path looks safe. No disk access.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/file-path-ok/mcp)
