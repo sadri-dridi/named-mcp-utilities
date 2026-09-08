@@ -1,0 +1,6 @@
+# Playwright URL Check
+
+Check whether a URL can be opened. No browser is launched.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/playwright-url-ok/mcp)

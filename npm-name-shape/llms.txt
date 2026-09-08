@@ -1,0 +1,6 @@
+# npm Name Shape
+
+Check an npm package name shape. Name discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/npm-name-shape/mcp)

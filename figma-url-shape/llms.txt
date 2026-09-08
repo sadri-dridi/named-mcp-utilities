@@ -1,0 +1,6 @@
+# Figma URL Shape
+
+Parse a Figma file URL. Path discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/figma-url-shape/mcp)

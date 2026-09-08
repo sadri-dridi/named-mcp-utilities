@@ -1,0 +1,6 @@
+# Docker Image Shape
+
+Check a Docker image name shape. Name discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/docker-image-shape/mcp)

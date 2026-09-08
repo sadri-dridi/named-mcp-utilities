@@ -1,0 +1,6 @@
+# PDF URL Check
+
+HEAD a public URL and say whether it looks like a PDF. Body discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pdf-url-ok/mcp)

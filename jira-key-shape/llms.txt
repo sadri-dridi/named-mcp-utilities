@@ -1,0 +1,6 @@
+# Jira Key Shape
+
+Check a Jira issue key shape. Key discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jira-key-shape/mcp)

@@ -1,0 +1,6 @@
+# Discord Webhook Shape
+
+Check a Discord webhook URL shape. Secret discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/discord-webhook-shape/mcp)

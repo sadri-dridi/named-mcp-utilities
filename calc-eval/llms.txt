@@ -1,0 +1,6 @@
+# Calc Eval
+
+Evaluate a+b style arithmetic. Expression discarded.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/calc-eval/mcp)
