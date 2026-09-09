@@ -1,0 +1,6 @@
+# Australia/Adelaide clock
+
+Current local time in Australia/Adelaide.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-adelaide/mcp)
