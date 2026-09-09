@@ -1,0 +1,6 @@
+# Africa/Maputo clock
+
+Current local time in Africa/Maputo.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-maputo/mcp)

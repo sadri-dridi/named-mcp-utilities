@@ -1,0 +1,6 @@
+# Africa/Lusaka clock
+
+Current local time in Africa/Lusaka.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-lusaka/mcp)
