@@ -1,0 +1,6 @@
+# Pacific/Guadalcanal clock
+
+Current local time in Pacific/Guadalcanal.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-guadalcanal/mcp)
