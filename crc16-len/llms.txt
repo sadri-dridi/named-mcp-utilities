@@ -1,0 +1,6 @@
+# CRC-16 hex length, input discarded
+
+CRC-16 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc16-len/mcp)

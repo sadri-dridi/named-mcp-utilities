@@ -1,0 +1,6 @@
+# xxHash hex length, input discarded
+
+xxHash hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xxhash-len/mcp)

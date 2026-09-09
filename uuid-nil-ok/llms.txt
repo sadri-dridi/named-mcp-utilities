@@ -1,0 +1,6 @@
+# Nil UUID shape
+
+Nil UUID shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-nil-ok/mcp)

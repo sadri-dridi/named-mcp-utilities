@@ -1,0 +1,6 @@
+# Current UTC hour from unix seconds
+
+Current UTC hour from unix seconds
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-hr/mcp)

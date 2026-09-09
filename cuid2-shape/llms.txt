@@ -1,0 +1,6 @@
+# CUID2 charset, value discarded
+
+CUID2 charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cuid2-shape/mcp)
