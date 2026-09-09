@@ -1,0 +1,6 @@
+# GIF magic-byte check, file discarded
+
+GIF magic-byte check, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gif-magic/mcp)

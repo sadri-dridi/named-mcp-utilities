@@ -1,0 +1,6 @@
+# Lat/lng bounding-box shape
+
+Lat/lng bounding-box shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/latlng-box-ok/mcp)

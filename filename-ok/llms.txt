@@ -1,0 +1,6 @@
+# Safe filename charset, name discarded
+
+Safe filename charset, name discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/filename-ok/mcp)

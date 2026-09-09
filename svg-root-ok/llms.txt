@@ -1,0 +1,6 @@
+# SVG root-tag shape, markup discarded
+
+SVG root-tag shape, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/svg-root-ok/mcp)

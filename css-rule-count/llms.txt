@@ -1,0 +1,6 @@
+# CSS rule count, stylesheet discarded
+
+CSS rule count, stylesheet discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/css-rule-count/mcp)

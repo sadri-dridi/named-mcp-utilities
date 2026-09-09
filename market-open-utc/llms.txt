@@ -1,0 +1,6 @@
+# Whether current UTC hour is weekday NYSE window
+
+Whether current UTC hour is weekday NYSE window
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/market-open-utc/mcp)

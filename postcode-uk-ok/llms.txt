@@ -1,0 +1,6 @@
+# UK postcode shape, value discarded
+
+UK postcode shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/postcode-uk-ok/mcp)
