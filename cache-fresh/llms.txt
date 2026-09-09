@@ -1,0 +1,6 @@
+# Fresh cache hint
+
+Fresh cache hint
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cache-fresh/mcp)

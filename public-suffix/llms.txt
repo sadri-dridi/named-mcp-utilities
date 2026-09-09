@@ -1,0 +1,6 @@
+# Public suffix count
+
+Public suffix count
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/public-suffix/mcp)

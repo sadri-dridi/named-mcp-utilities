@@ -1,0 +1,6 @@
+# dotenv key count, values discarded
+
+dotenv key count, values discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dotenv-keys/mcp)

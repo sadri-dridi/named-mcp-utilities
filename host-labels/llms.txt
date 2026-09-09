@@ -1,0 +1,6 @@
+# Hostname label count
+
+Hostname label count
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/host-labels/mcp)

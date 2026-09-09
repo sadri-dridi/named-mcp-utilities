@@ -1,0 +1,6 @@
+# Email hostname only, address discarded
+
+Email hostname only, address discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/email-host/mcp)
