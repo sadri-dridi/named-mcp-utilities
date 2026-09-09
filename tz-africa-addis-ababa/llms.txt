@@ -1,0 +1,6 @@
+# Africa/Addis_Ababa clock
+
+Current local time in Africa/Addis_Ababa.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-addis-ababa/mcp)

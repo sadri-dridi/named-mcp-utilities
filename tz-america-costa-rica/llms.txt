@@ -1,0 +1,6 @@
+# America/Costa_Rica clock
+
+Current local time in America/Costa_Rica.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-costa-rica/mcp)
