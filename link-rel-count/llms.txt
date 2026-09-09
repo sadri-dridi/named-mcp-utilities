@@ -1,0 +1,6 @@
+# HTML link rel count, markup discarded
+
+HTML link rel count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/link-rel-count/mcp)

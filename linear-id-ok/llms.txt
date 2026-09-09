@@ -1,0 +1,6 @@
+# LIN-123 identifier shape, value discarded
+
+LIN-123 identifier shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/linear-id-ok/mcp)

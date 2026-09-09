@@ -1,0 +1,6 @@
+# Pretty-print JSON shape, body discarded
+
+Pretty-print JSON shape, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-pretty-ok/mcp)

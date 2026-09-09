@@ -1,0 +1,6 @@
+# Arrow IPC magic-byte check, file discarded
+
+Arrow IPC magic-byte check, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arrow-magic/mcp)

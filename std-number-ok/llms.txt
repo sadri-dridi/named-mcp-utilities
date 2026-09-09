@@ -1,0 +1,6 @@
+# ISO/IEC standard number shape
+
+ISO/IEC standard number shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/std-number-ok/mcp)

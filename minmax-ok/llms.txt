@@ -1,0 +1,6 @@
+# Whether a is inside [min,max], numbers discarded
+
+Whether a is inside [min,max], numbers discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/minmax-ok/mcp)

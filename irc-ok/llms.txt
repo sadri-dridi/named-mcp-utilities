@@ -1,0 +1,6 @@
+# IRC channel name shape, value discarded
+
+IRC channel name shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/irc-ok/mcp)

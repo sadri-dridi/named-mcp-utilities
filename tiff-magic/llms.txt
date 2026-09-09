@@ -1,0 +1,6 @@
+# TIFF magic-byte check, file discarded
+
+TIFF magic-byte check, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tiff-magic/mcp)

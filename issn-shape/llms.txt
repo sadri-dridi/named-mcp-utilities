@@ -1,0 +1,6 @@
+# ISSN shape, value discarded
+
+ISSN shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/issn-shape/mcp)
