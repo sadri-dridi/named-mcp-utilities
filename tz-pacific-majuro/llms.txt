@@ -1,0 +1,6 @@
+# Pacific/Majuro clock
+
+Current local time in Pacific/Majuro.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-majuro/mcp)
