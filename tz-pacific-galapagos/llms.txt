@@ -1,0 +1,6 @@
+# Pacific/Galapagos clock
+
+Current local time in Pacific/Galapagos.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-galapagos/mcp)

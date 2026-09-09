@@ -1,0 +1,6 @@
+# Pacific/Pago_Pago clock
+
+Current local time in Pacific/Pago_Pago.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-pago-pago/mcp)
