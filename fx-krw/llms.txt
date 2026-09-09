@@ -1,0 +1,6 @@
+# Currency KRW
+
+ISO 4217 currency KRW.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-krw/mcp)

@@ -1,0 +1,6 @@
+# Language ur
+
+ISO 639 language tag ur.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ur/mcp)

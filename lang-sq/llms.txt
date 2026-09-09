@@ -1,0 +1,6 @@
+# Language sq
+
+ISO 639 language tag sq.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-sq/mcp)

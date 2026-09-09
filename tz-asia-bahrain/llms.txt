@@ -1,0 +1,6 @@
+# Asia/Bahrain clock
+
+Current local time in Asia/Bahrain.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-bahrain/mcp)

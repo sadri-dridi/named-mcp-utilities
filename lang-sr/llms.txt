@@ -1,0 +1,6 @@
+# Language sr
+
+ISO 639 language tag sr.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-sr/mcp)
