@@ -1,0 +1,6 @@
+# Origin header shape, value discarded
+
+Origin header shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/origin-ok/mcp)

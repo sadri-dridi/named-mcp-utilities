@@ -1,0 +1,6 @@
+# Hostname shape, value discarded
+
+Hostname shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hostname-ok/mcp)

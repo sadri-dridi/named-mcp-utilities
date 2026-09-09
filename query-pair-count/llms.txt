@@ -1,0 +1,6 @@
+# Query pair count, URL discarded
+
+Query pair count, URL discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/query-pair-count/mcp)

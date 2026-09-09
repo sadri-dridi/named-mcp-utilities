@@ -1,0 +1,6 @@
+# Nautical miles to kilometers
+
+Nautical miles to kilometers
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nmi-to-km/mcp)
