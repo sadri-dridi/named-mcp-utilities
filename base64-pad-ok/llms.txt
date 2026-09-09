@@ -1,0 +1,6 @@
+# Base64 padding shape, input discarded
+
+Base64 padding shape, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base64-pad-ok/mcp)

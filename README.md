@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [SVG root-tag shape, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/svg-root-ok/mcp) — `io.github.sadri-dridi/svg-root-ok`
-- [WebAssembly magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wasm-magic/mcp) — `io.github.sadri-dridi/wasm-magic`
-- [GIF magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gif-magic/mcp) — `io.github.sadri-dridi/gif-magic`
-- [SSH fingerprint hex shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ssh-fp-ok/mcp) — `io.github.sadri-dridi/ssh-fp-ok`
-- [TOTP secret charset, secret discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/totp-shape/mcp) — `io.github.sadri-dridi/totp-shape`
-- [PGP armor fence check, key discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pgp-armor-ok/mcp) — `io.github.sadri-dridi/pgp-armor-ok`
-- [gitignore rule count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gitignore-ok/mcp) — `io.github.sadri-dridi/gitignore-ok`
-- [pyproject.toml table count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pyproject-ok/mcp) — `io.github.sadri-dridi/pyproject-ok`
-- [Terraform block count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/terraform-ok/mcp) — `io.github.sadri-dridi/terraform-ok`
-- [Open Graph tag count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/og-tag-count/mcp) — `io.github.sadri-dridi/og-tag-count`
-- [Canonical URL host only, URL discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/canonical-host/mcp) — `io.github.sadri-dridi/canonical-host`
-- [CSS rule count, stylesheet discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/css-rule-count/mcp) — `io.github.sadri-dridi/css-rule-count`
-- [WCAG AAA contrast for two hex colors](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wcag-aaa-ok/mcp) — `io.github.sadri-dridi/wcag-aaa-ok`
-- [BCP 47 lang attribute shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/html-lang-ok/mcp) — `io.github.sadri-dridi/html-lang-ok`
-- [ICAO airport code shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/icao-ok/mcp) — `io.github.sadri-dridi/icao-ok`
-- [Lat/lng bounding-box shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/latlng-box-ok/mcp) — `io.github.sadri-dridi/latlng-box-ok`
-- [UK postcode shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/postcode-uk-ok/mcp) — `io.github.sadri-dridi/postcode-uk-ok`
-- [UTC ISO to unix seconds, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-to-unix/mcp) — `io.github.sadri-dridi/iso-to-unix`
-- [Coarse moon phase from UTC day](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/moon-phase-utc/mcp) — `io.github.sadri-dridi/moon-phase-utc`
-- [Whether current UTC hour is weekday NYSE window](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/market-open-utc/mcp) — `io.github.sadri-dridi/market-open-utc`
-- [Git branch name safety, name discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/git-branch-ok/mcp) — `io.github.sadri-dridi/git-branch-ok`
-- [Git SHA hex length, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/git-sha-ok/mcp) — `io.github.sadri-dridi/git-sha-ok`
-- [Guess MIME from a file extension, name discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ext-mime-ok/mcp) — `io.github.sadri-dridi/ext-mime-ok`
-- [Safe filename charset, name discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/filename-ok/mcp) — `io.github.sadri-dridi/filename-ok`
+- [TAR ustar check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tar-magic/mcp) — `io.github.sadri-dridi/tar-magic`
+- [Lockfile family hint, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lockfile-kind/mcp) — `io.github.sadri-dridi/lockfile-kind`
+- [Cargo.toml crate name shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cargo-ok/mcp) — `io.github.sadri-dridi/cargo-ok`
+- [Compose service count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/compose-ok/mcp) — `io.github.sadri-dridi/compose-ok`
+- [Avro magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/avro-magic/mcp) — `io.github.sadri-dridi/avro-magic`
+- [Parquet magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/parquet-magic/mcp) — `io.github.sadri-dridi/parquet-magic`
+- [Decimal-place count for a number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/round-dp/mcp) — `io.github.sadri-dridi/round-dp`
+- [Six-field cron shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cron-six-ok/mcp) — `io.github.sadri-dridi/cron-six-ok`
+- [SPDX license expression tokens, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/spdx-expr-ok/mcp) — `io.github.sadri-dridi/spdx-expr-ok`
+- [SemVer range operators, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/semver-range-ok/mcp) — `io.github.sadri-dridi/semver-range-ok`
+- [Base64 padding shape, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base64-pad-ok/mcp) — `io.github.sadri-dridi/base64-pad-ok`
+- [mailto: shape, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mailto-ok/mcp) — `io.github.sadri-dridi/mailto-ok`
+- [data: URI media-type only, payload discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/data-uri-ok/mcp) — `io.github.sadri-dridi/data-uri-ok`
+- [IPFS CID charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ipfs-cid-ok/mcp) — `io.github.sadri-dridi/ipfs-cid-ok`
+- [SHA-3 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha3-ok/mcp) — `io.github.sadri-dridi/sha3-ok`
+- [BLAKE3 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/blake3-ok/mcp) — `io.github.sadri-dridi/blake3-ok`
+- [SHA-512 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha512-ok/mcp) — `io.github.sadri-dridi/sha512-ok`
+- [UTC ISO week-date](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-week-date/mcp) — `io.github.sadri-dridi/iso-week-date`
+- [Whether text contains an emoji, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/emoji-ok/mcp) — `io.github.sadri-dridi/emoji-ok`
+- [Tabs vs spaces indent, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/indent-kind/mcp) — `io.github.sadri-dridi/indent-kind`
+- [LF vs CRLF vs CR, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/newline-kind/mcp) — `io.github.sadri-dridi/newline-kind`
+- [Shebang interpreter token, line discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shebang-ok/mcp) — `io.github.sadri-dridi/shebang-ok`
+- [Redirect hop count band 0-5](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/redirect-hop-ok/mcp) — `io.github.sadri-dridi/redirect-hop-ok`
+- [HTTP status class 1xx-5xx](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/status-class-ok/mcp) — `io.github.sadri-dridi/status-class-ok`

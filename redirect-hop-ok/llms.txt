@@ -1,0 +1,6 @@
+# Redirect hop count band 0-5
+
+Redirect hop count band 0-5
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/redirect-hop-ok/mcp)

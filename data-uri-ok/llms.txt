@@ -1,0 +1,6 @@
+# data: URI media-type only, payload discarded
+
+data: URI media-type only, payload discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/data-uri-ok/mcp)

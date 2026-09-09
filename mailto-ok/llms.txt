@@ -1,0 +1,6 @@
+# mailto: shape, address discarded
+
+mailto: shape, address discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mailto-ok/mcp)

@@ -1,0 +1,6 @@
+# Decimal-place count for a number
+
+Decimal-place count for a number
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/round-dp/mcp)
