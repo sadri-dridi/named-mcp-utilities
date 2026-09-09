@@ -1,0 +1,6 @@
+# ISO country EC
+
+Public ISO 3166-1 record for EC.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-ec/mcp)
