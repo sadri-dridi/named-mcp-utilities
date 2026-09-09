@@ -1,0 +1,6 @@
+# Dutch postcode shape, value discarded
+
+Dutch postcode shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nl-postcode/mcp)

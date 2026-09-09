@@ -1,0 +1,6 @@
+# HTML script tag count, markup discarded
+
+HTML script tag count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/html-script-n/mcp)
