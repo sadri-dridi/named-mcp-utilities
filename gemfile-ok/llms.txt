@@ -1,0 +1,6 @@
+# Gemfile gem count, versions discarded
+
+Gemfile gem count, versions discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gemfile-ok/mcp)

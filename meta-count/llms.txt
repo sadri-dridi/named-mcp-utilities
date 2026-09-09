@@ -1,0 +1,6 @@
+# HTML meta tag count, markup discarded
+
+HTML meta tag count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/meta-count/mcp)

@@ -1,0 +1,6 @@
+# HTML h1 count, markup discarded
+
+HTML h1 count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/h1-count/mcp)
