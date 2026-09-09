@@ -1,0 +1,6 @@
+# America/North_Dakota/Center clock
+
+Current local time in America/North_Dakota/Center.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-north-dakota-center/mcp)
