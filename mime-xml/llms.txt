@@ -1,0 +1,6 @@
+# MIME xml
+
+Public MIME token for xml.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-xml/mcp)

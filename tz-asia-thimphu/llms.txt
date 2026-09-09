@@ -1,0 +1,6 @@
+# Asia/Thimphu clock
+
+Current local time in Asia/Thimphu.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-thimphu/mcp)

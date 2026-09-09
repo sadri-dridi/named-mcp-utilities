@@ -1,0 +1,6 @@
+# MIME jpeg
+
+Public MIME token for jpeg.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-jpeg/mcp)
