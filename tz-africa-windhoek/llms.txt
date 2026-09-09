@@ -1,0 +1,6 @@
+# Africa/Windhoek clock
+
+Current local time in Africa/Windhoek.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-windhoek/mcp)
