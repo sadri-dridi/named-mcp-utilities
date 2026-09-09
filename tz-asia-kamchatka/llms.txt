@@ -1,0 +1,6 @@
+# Asia/Kamchatka clock
+
+Current local time in Asia/Kamchatka.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kamchatka/mcp)
