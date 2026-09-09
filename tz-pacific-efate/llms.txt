@@ -1,0 +1,6 @@
+# Pacific/Efate clock
+
+Current local time in Pacific/Efate.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-efate/mcp)
