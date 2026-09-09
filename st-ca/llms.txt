@@ -1,0 +1,6 @@
+# US state CA
+
+USPS state code CA.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ca/mcp)

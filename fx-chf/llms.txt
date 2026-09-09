@@ -1,0 +1,6 @@
+# Currency CHF
+
+ISO 4217 currency CHF.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-chf/mcp)

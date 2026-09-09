@@ -1,0 +1,6 @@
+# Minutes to seconds
+
+Minutes to seconds
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/min-to-sec/mcp)

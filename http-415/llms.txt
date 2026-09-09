@@ -1,0 +1,6 @@
+# HTTP 415 unsupported-media
+
+Meaning of HTTP 415.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-415/mcp)
