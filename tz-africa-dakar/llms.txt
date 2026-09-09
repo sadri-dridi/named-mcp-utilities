@@ -1,0 +1,6 @@
+# Africa/Dakar clock
+
+Current local time in Africa/Dakar.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-dakar/mcp)

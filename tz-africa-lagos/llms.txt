@@ -1,0 +1,6 @@
+# Africa/Lagos clock
+
+Current local time in Africa/Lagos.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-lagos/mcp)

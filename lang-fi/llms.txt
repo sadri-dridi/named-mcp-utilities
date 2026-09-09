@@ -1,0 +1,6 @@
+# Language fi
+
+ISO 639 language tag fi.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fi/mcp)

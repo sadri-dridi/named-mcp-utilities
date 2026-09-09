@@ -1,0 +1,6 @@
+# Language th
+
+ISO 639 language tag th.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-th/mcp)

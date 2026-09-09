@@ -2,21 +2,51 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Lib Docs Hint](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lib-docs-hint/mcp) — `io.github.sadri-dridi/lib-docs-hint`
-- [Playwright URL Check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/playwright-url-ok/mcp) — `io.github.sadri-dridi/playwright-url-ok`
-- [Figma URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/figma-url-shape/mcp) — `io.github.sadri-dridi/figma-url-shape`
-- [Jira Key Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jira-key-shape/mcp) — `io.github.sadri-dridi/jira-key-shape`
-- [Linear ID Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/linear-id-shape/mcp) — `io.github.sadri-dridi/linear-id-shape`
-- [Notion URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/notion-url-shape/mcp) — `io.github.sadri-dridi/notion-url-shape`
-- [Supabase URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/supabase-url-shape/mcp) — `io.github.sadri-dridi/supabase-url-shape`
-- [Sentry DSN Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sentry-dsn-shape/mcp) — `io.github.sadri-dridi/sentry-dsn-shape`
-- [Mongo URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mongo-url-shape/mcp) — `io.github.sadri-dridi/mongo-url-shape`
-- [Wiki Title Check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wiki-title-ok/mcp) — `io.github.sadri-dridi/wiki-title-ok`
-- [Geo Hint](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/geo-hint/mcp) — `io.github.sadri-dridi/geo-hint`
-- [Calc Eval](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/calc-eval/mcp) — `io.github.sadri-dridi/calc-eval`
-- [Docker Image Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/docker-image-shape/mcp) — `io.github.sadri-dridi/docker-image-shape`
-- [Redis URL Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/redis-url-shape/mcp) — `io.github.sadri-dridi/redis-url-shape`
-- [Discord Webhook Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/discord-webhook-shape/mcp) — `io.github.sadri-dridi/discord-webhook-shape`
-- [YouTube ID Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/youtube-id-shape/mcp) — `io.github.sadri-dridi/youtube-id-shape`
-- [npm Name Shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/npm-name-shape/mcp) — `io.github.sadri-dridi/npm-name-shape`
-- [PDF URL Check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pdf-url-ok/mcp) — `io.github.sadri-dridi/pdf-url-ok`
+- [Language pl](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-pl/mcp) — `io.github.sadri-dridi/lang-pl`
+- [Language vi](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-vi/mcp) — `io.github.sadri-dridi/lang-vi`
+- [Language tr](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-tr/mcp) — `io.github.sadri-dridi/lang-tr`
+- [ISO country CA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-ca/mcp) — `io.github.sadri-dridi/cc-ca`
+- [ISO country MX](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mx/mcp) — `io.github.sadri-dridi/cc-mx`
+- [ISO country IT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-it/mcp) — `io.github.sadri-dridi/cc-it`
+- [Africa/Dakar clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-dakar/mcp) — `io.github.sadri-dridi/tz-africa-dakar`
+- [Africa/Lagos clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-lagos/mcp) — `io.github.sadri-dridi/tz-africa-lagos`
+- [Africa/Tunis clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-tunis/mcp) — `io.github.sadri-dridi/tz-africa-tunis`
+- [UTC second](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/second-utc/mcp) — `io.github.sadri-dridi/second-utc`
+- [HTTP 103 early-hints](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-103/mcp) — `io.github.sadri-dridi/http-103`
+- [HTTP 202 accepted](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-202/mcp) — `io.github.sadri-dridi/http-202`
+- [HTTP 206 partial-content](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-206/mcp) — `io.github.sadri-dridi/http-206`
+- [Language id](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-id/mcp) — `io.github.sadri-dridi/lang-id`
+- [Language bn](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-bn/mcp) — `io.github.sadri-dridi/lang-bn`
+- [Language th](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-th/mcp) — `io.github.sadri-dridi/lang-th`
+- [Language sv](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-sv/mcp) — `io.github.sadri-dridi/lang-sv`
+- [Language uk](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-uk/mcp) — `io.github.sadri-dridi/lang-uk`
+- [Language aa](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-aa/mcp) — `io.github.sadri-dridi/lang-aa`
+- [Language af](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-af/mcp) — `io.github.sadri-dridi/lang-af`
+- [Language am](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-am/mcp) — `io.github.sadri-dridi/lang-am`
+- [Language as](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-as/mcp) — `io.github.sadri-dridi/lang-as`
+- [Language az](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-az/mcp) — `io.github.sadri-dridi/lang-az`
+- [Language be](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-be/mcp) — `io.github.sadri-dridi/lang-be`
+- [Language bg](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-bg/mcp) — `io.github.sadri-dridi/lang-bg`
+- [Language bs](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-bs/mcp) — `io.github.sadri-dridi/lang-bs`
+- [Language ca](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ca/mcp) — `io.github.sadri-dridi/lang-ca`
+- [Language cs](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-cs/mcp) — `io.github.sadri-dridi/lang-cs`
+- [Language cy](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-cy/mcp) — `io.github.sadri-dridi/lang-cy`
+- [Language da](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-da/mcp) — `io.github.sadri-dridi/lang-da`
+- [Language el](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-el/mcp) — `io.github.sadri-dridi/lang-el`
+- [Language eo](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-eo/mcp) — `io.github.sadri-dridi/lang-eo`
+- [Language et](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-et/mcp) — `io.github.sadri-dridi/lang-et`
+- [Language eu](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-eu/mcp) — `io.github.sadri-dridi/lang-eu`
+- [Language fa](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fa/mcp) — `io.github.sadri-dridi/lang-fa`
+- [Language fi](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fi/mcp) — `io.github.sadri-dridi/lang-fi`
+- [Language fj](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fj/mcp) — `io.github.sadri-dridi/lang-fj`
+- [Language fo](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fo/mcp) — `io.github.sadri-dridi/lang-fo`
+- [Language ga](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ga/mcp) — `io.github.sadri-dridi/lang-ga`
+- [Language gd](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-gd/mcp) — `io.github.sadri-dridi/lang-gd`
+- [Language gl](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-gl/mcp) — `io.github.sadri-dridi/lang-gl`
+- [Language gu](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-gu/mcp) — `io.github.sadri-dridi/lang-gu`
+- [Language ha](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ha/mcp) — `io.github.sadri-dridi/lang-ha`
+- [Language he](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-he/mcp) — `io.github.sadri-dridi/lang-he`
+- [Language hr](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-hr/mcp) — `io.github.sadri-dridi/lang-hr`
+- [Language ht](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ht/mcp) — `io.github.sadri-dridi/lang-ht`
+- [Language hu](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-hu/mcp) — `io.github.sadri-dridi/lang-hu`
+- [Language hy](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-hy/mcp) — `io.github.sadri-dridi/lang-hy`

@@ -1,0 +1,6 @@
+# Language id
+
+ISO 639 language tag id.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-id/mcp)

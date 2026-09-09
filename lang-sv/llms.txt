@@ -1,0 +1,6 @@
+# Language sv
+
+ISO 639 language tag sv.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-sv/mcp)

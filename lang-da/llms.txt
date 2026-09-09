@@ -1,0 +1,6 @@
+# Language da
+
+ISO 639 language tag da.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-da/mcp)

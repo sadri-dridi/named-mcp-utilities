@@ -1,0 +1,6 @@
+# Language fj
+
+ISO 639 language tag fj.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-fj/mcp)

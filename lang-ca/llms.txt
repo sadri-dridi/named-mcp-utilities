@@ -1,0 +1,6 @@
+# Language ca
+
+ISO 639 language tag ca.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ca/mcp)

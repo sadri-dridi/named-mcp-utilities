@@ -1,0 +1,6 @@
+# Language uk
+
+ISO 639 language tag uk.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-uk/mcp)

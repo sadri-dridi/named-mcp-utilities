@@ -1,0 +1,6 @@
+# Language af
+
+ISO 639 language tag af.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-af/mcp)
