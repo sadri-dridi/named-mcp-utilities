@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Europe/Lisbon clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-lisbon/mcp) — `io.github.sadri-dridi/tz-europe-lisbon`
-- [Europe/Monaco clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-monaco/mcp) — `io.github.sadri-dridi/tz-europe-monaco`
-- [Europe/Moscow clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-moscow/mcp) — `io.github.sadri-dridi/tz-europe-moscow`
+- [Europe/Prague clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-prague/mcp) — `io.github.sadri-dridi/tz-europe-prague`
+- [Europe/Samara clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-samara/mcp) — `io.github.sadri-dridi/tz-europe-samara`
+- [Europe/Skopje clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-skopje/mcp) — `io.github.sadri-dridi/tz-europe-skopje`
