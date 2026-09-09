@@ -1,0 +1,6 @@
+# img alt attribute count, markup discarded
+
+img alt attribute count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/alt-ok/mcp)

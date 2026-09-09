@@ -1,0 +1,6 @@
+# html lang attribute shape, markup discarded
+
+html lang attribute shape, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/htmllang-ok/mcp)

@@ -1,0 +1,6 @@
+# PEP 621 project name shape, body discarded
+
+PEP 621 project name shape, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pep621-ok/mcp)
