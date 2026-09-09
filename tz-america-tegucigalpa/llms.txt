@@ -1,0 +1,6 @@
+# America/Tegucigalpa clock
+
+Current local time in America/Tegucigalpa.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-tegucigalpa/mcp)
