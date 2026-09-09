@@ -1,0 +1,6 @@
+# Currency SGD
+
+ISO 4217 currency SGD.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-sgd/mcp)
