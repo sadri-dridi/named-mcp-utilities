@@ -1,0 +1,6 @@
+# US state SD
+
+USPS state code SD.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-sd/mcp)

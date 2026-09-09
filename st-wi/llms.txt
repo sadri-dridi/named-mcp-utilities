@@ -1,0 +1,6 @@
+# US state WI
+
+USPS state code WI.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wi/mcp)

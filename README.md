@@ -2,35 +2,48 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Utility 131](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-131/mcp) — `io.github.sadri-dridi/util-131`
-- [Utility 132](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-132/mcp) — `io.github.sadri-dridi/util-132`
-- [Utility 133](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-133/mcp) — `io.github.sadri-dridi/util-133`
-- [Utility 134](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-134/mcp) — `io.github.sadri-dridi/util-134`
-- [Utility 135](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-135/mcp) — `io.github.sadri-dridi/util-135`
-- [Utility 136](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-136/mcp) — `io.github.sadri-dridi/util-136`
-- [Utility 137](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-137/mcp) — `io.github.sadri-dridi/util-137`
-- [Utility 138](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-138/mcp) — `io.github.sadri-dridi/util-138`
-- [Utility 139](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-139/mcp) — `io.github.sadri-dridi/util-139`
-- [Utility 140](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-140/mcp) — `io.github.sadri-dridi/util-140`
-- [Utility 141](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-141/mcp) — `io.github.sadri-dridi/util-141`
-- [Utility 142](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-142/mcp) — `io.github.sadri-dridi/util-142`
-- [Utility 143](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-143/mcp) — `io.github.sadri-dridi/util-143`
-- [Utility 144](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-144/mcp) — `io.github.sadri-dridi/util-144`
-- [Utility 145](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-145/mcp) — `io.github.sadri-dridi/util-145`
-- [Utility 146](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-146/mcp) — `io.github.sadri-dridi/util-146`
-- [Utility 147](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-147/mcp) — `io.github.sadri-dridi/util-147`
-- [Utility 148](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-148/mcp) — `io.github.sadri-dridi/util-148`
-- [Utility 149](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-149/mcp) — `io.github.sadri-dridi/util-149`
-- [Utility 150](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-150/mcp) — `io.github.sadri-dridi/util-150`
-- [Utility 151](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-151/mcp) — `io.github.sadri-dridi/util-151`
-- [Utility 152](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-152/mcp) — `io.github.sadri-dridi/util-152`
-- [Utility 153](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-153/mcp) — `io.github.sadri-dridi/util-153`
-- [Utility 154](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-154/mcp) — `io.github.sadri-dridi/util-154`
-- [Utility 155](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-155/mcp) — `io.github.sadri-dridi/util-155`
-- [Utility 156](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-156/mcp) — `io.github.sadri-dridi/util-156`
-- [Utility 157](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-157/mcp) — `io.github.sadri-dridi/util-157`
-- [Utility 158](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-158/mcp) — `io.github.sadri-dridi/util-158`
-- [Utility 159](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-159/mcp) — `io.github.sadri-dridi/util-159`
-- [Utility 160](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-160/mcp) — `io.github.sadri-dridi/util-160`
-- [Utility 161](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-161/mcp) — `io.github.sadri-dridi/util-161`
-- [Utility 162](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-162/mcp) — `io.github.sadri-dridi/util-162`
+- [US state PA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-pa/mcp) — `io.github.sadri-dridi/st-pa`
+- [US state RI](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ri/mcp) — `io.github.sadri-dridi/st-ri`
+- [US state SC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-sc/mcp) — `io.github.sadri-dridi/st-sc`
+- [US state SD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-sd/mcp) — `io.github.sadri-dridi/st-sd`
+- [US state TN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-tn/mcp) — `io.github.sadri-dridi/st-tn`
+- [US state UT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ut/mcp) — `io.github.sadri-dridi/st-ut`
+- [US state VA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-va/mcp) — `io.github.sadri-dridi/st-va`
+- [US state VT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-vt/mcp) — `io.github.sadri-dridi/st-vt`
+- [US state WI](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wi/mcp) — `io.github.sadri-dridi/st-wi`
+- [US state WV](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wv/mcp) — `io.github.sadri-dridi/st-wv`
+- [US state WY](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wy/mcp) — `io.github.sadri-dridi/st-wy`
+- [Utility 1](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-001/mcp) — `io.github.sadri-dridi/util-001`
+- [Utility 2](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-002/mcp) — `io.github.sadri-dridi/util-002`
+- [Utility 3](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-003/mcp) — `io.github.sadri-dridi/util-003`
+- [Utility 4](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-004/mcp) — `io.github.sadri-dridi/util-004`
+- [Utility 5](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-005/mcp) — `io.github.sadri-dridi/util-005`
+- [Utility 6](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-006/mcp) — `io.github.sadri-dridi/util-006`
+- [Utility 7](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-007/mcp) — `io.github.sadri-dridi/util-007`
+- [Utility 8](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-008/mcp) — `io.github.sadri-dridi/util-008`
+- [Utility 9](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-009/mcp) — `io.github.sadri-dridi/util-009`
+- [Utility 10](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-010/mcp) — `io.github.sadri-dridi/util-010`
+- [Utility 11](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-011/mcp) — `io.github.sadri-dridi/util-011`
+- [Utility 12](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-012/mcp) — `io.github.sadri-dridi/util-012`
+- [Utility 13](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-013/mcp) — `io.github.sadri-dridi/util-013`
+- [Utility 14](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-014/mcp) — `io.github.sadri-dridi/util-014`
+- [Utility 15](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-015/mcp) — `io.github.sadri-dridi/util-015`
+- [Utility 16](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-016/mcp) — `io.github.sadri-dridi/util-016`
+- [Utility 17](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-017/mcp) — `io.github.sadri-dridi/util-017`
+- [Utility 18](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-018/mcp) — `io.github.sadri-dridi/util-018`
+- [Utility 19](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-019/mcp) — `io.github.sadri-dridi/util-019`
+- [Utility 20](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-020/mcp) — `io.github.sadri-dridi/util-020`
+- [Utility 21](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-021/mcp) — `io.github.sadri-dridi/util-021`
+- [Utility 22](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-022/mcp) — `io.github.sadri-dridi/util-022`
+- [Utility 23](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-023/mcp) — `io.github.sadri-dridi/util-023`
+- [Utility 24](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-024/mcp) — `io.github.sadri-dridi/util-024`
+- [Utility 25](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-025/mcp) — `io.github.sadri-dridi/util-025`
+- [Utility 26](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-026/mcp) — `io.github.sadri-dridi/util-026`
+- [Utility 27](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-027/mcp) — `io.github.sadri-dridi/util-027`
+- [Utility 28](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-028/mcp) — `io.github.sadri-dridi/util-028`
+- [Utility 29](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-029/mcp) — `io.github.sadri-dridi/util-029`
+- [Utility 30](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-030/mcp) — `io.github.sadri-dridi/util-030`
+- [Utility 31](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-031/mcp) — `io.github.sadri-dridi/util-031`
+- [Utility 32](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-032/mcp) — `io.github.sadri-dridi/util-032`
+- [Utility 33](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-033/mcp) — `io.github.sadri-dridi/util-033`
+- [Utility 34](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-034/mcp) — `io.github.sadri-dridi/util-034`

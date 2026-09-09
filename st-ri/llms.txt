@@ -1,0 +1,6 @@
+# US state RI
+
+USPS state code RI.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ri/mcp)
