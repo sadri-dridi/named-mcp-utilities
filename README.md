@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Australia/Brisbane clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-brisbane/mcp) — `io.github.sadri-dridi/tz-australia-brisbane`
-- [Europe/Isle_of_Man clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-isle-of-man/mcp) — `io.github.sadri-dridi/tz-europe-isle-of-man`
-- [Europe/Kaliningrad clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-kaliningrad/mcp) — `io.github.sadri-dridi/tz-europe-kaliningrad`
+- [Pacific/Kiritimati clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-kiritimati/mcp) — `io.github.sadri-dridi/tz-pacific-kiritimati`
+- [Africa/Johannesburg clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-johannesburg/mcp) — `io.github.sadri-dridi/tz-africa-johannesburg`
+- [America/Puerto_Rico clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-puerto-rico/mcp) — `io.github.sadri-dridi/tz-america-puerto-rico`
