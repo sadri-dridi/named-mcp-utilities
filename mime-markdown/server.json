@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sadri-dridi/mime-markdown",
+  "title": "MIME markdown",
+  "description": "Public MIME token for markdown.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/sadri-dridi/named-mcp-utilities",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-markdown/mcp"
+    }
+  ]
+}
