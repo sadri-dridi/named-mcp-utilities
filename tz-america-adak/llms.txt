@@ -1,0 +1,6 @@
+# America/Adak clock
+
+Current local time in America/Adak.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-adak/mcp)

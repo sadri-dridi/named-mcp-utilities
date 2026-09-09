@@ -1,0 +1,6 @@
+# America/Lima clock
+
+Current local time in America/Lima.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-lima/mcp)

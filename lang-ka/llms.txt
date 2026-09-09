@@ -1,0 +1,6 @@
+# Language ka
+
+ISO 639 language tag ka.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-ka/mcp)

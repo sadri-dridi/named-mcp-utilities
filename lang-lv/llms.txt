@@ -1,0 +1,6 @@
+# Language lv
+
+ISO 639 language tag lv.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-lv/mcp)

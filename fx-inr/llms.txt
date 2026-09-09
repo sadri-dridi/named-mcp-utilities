@@ -1,0 +1,6 @@
+# Currency INR
+
+ISO 4217 currency INR.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-inr/mcp)

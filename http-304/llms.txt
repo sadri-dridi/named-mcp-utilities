@@ -1,0 +1,6 @@
+# HTTP 304 not-modified
+
+Meaning of HTTP 304.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-304/mcp)

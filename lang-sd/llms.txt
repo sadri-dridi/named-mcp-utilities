@@ -1,0 +1,6 @@
+# Language sd
+
+ISO 639 language tag sd.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-sd/mcp)

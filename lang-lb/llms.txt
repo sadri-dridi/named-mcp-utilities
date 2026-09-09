@@ -1,0 +1,6 @@
+# Language lb
+
+ISO 639 language tag lb.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lang-lb/mcp)

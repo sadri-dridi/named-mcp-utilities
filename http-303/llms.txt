@@ -1,0 +1,6 @@
+# HTTP 303 see-other
+
+Meaning of HTTP 303.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-303/mcp)
