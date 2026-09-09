@@ -1,0 +1,6 @@
+# Currency TRY
+
+ISO 4217 currency TRY.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-try/mcp)
