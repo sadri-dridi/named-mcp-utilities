@@ -1,0 +1,6 @@
+# JSON Pointer shape, path discarded
+
+JSON Pointer shape, path discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-pointer-ok/mcp)

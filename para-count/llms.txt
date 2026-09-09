@@ -1,0 +1,6 @@
+# Paragraph count, text discarded
+
+Paragraph count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/para-count/mcp)

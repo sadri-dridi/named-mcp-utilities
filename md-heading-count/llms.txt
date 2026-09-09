@@ -1,0 +1,6 @@
+# Markdown heading count, text discarded
+
+Markdown heading count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/md-heading-count/mcp)

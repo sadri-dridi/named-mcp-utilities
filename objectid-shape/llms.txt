@@ -1,0 +1,6 @@
+# Mongo ObjectId shape
+
+Mongo ObjectId shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/objectid-shape/mcp)

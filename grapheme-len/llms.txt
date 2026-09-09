@@ -1,0 +1,6 @@
+# Grapheme length, text discarded
+
+Grapheme length, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/grapheme-len/mcp)

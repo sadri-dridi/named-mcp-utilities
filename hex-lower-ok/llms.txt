@@ -1,0 +1,6 @@
+# Lowercase hex charset, input discarded
+
+Lowercase hex charset, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-lower-ok/mcp)

@@ -2,51 +2,43 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [BIC/SWIFT shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bic-ok/mcp) — `io.github.sadri-dridi/bic-ok`
-- [DOI 10. prefix shape, id discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/doi-ok/mcp) — `io.github.sadri-dridi/doi-ok`
-- [RSS feed shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rss-ok/mcp) — `io.github.sadri-dridi/rss-ok`
-- [Ascii85 length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base85-ok/mcp) — `io.github.sadri-dridi/base85-ok`
-- [UTF-16 unit count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf16-len/mcp) — `io.github.sadri-dridi/utf16-len`
-- [Quoted-printable length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/quoted-len/mcp) — `io.github.sadri-dridi/quoted-len`
-- [Celsius to kelvin](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/c-to-k/mcp) — `io.github.sadri-dridi/c-to-k`
-- [Kelvin to celsius](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/k-to-c/mcp) — `io.github.sadri-dridi/k-to-c`
-- [Stone to pounds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-to-lb/mcp) — `io.github.sadri-dridi/st-to-lb`
-- [KSUID character length](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ksuid-len/mcp) — `io.github.sadri-dridi/ksuid-len`
-- [XID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xid-shape/mcp) — `io.github.sadri-dridi/xid-shape`
-- [URL-safe Nano ID charset](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nanoid-url/mcp) — `io.github.sadri-dridi/nanoid-url`
-- [CRC8 hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc8-ok/mcp) — `io.github.sadri-dridi/crc8-ok`
-- [UTC leap-year flag](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/leap-year-utc/mcp) — `io.github.sadri-dridi/leap-year-utc`
-- [Max UUID constant](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-max/mcp) — `io.github.sadri-dridi/uuid-max`
-- [UUID v1 time-based shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-v1-shape/mcp) — `io.github.sadri-dridi/uuid-v1-shape`
-- [UUID v5 name-based shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-v5-shape/mcp) — `io.github.sadri-dridi/uuid-v5-shape`
-- [Unix hour number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-hour/mcp) — `io.github.sadri-dridi/unix-hour`
-- [Unix week number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-week/mcp) — `io.github.sadri-dridi/unix-week`
-- [Unix year number](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-year/mcp) — `io.github.sadri-dridi/unix-year`
-- [camelCase shape, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/camel-ok/mcp) — `io.github.sadri-dridi/camel-ok`
-- [kebab-case shape, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/kebab-ok/mcp) — `io.github.sadri-dridi/kebab-ok`
-- [Atom feed shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/atom-ok/mcp) — `io.github.sadri-dridi/atom-ok`
-- [Five-field cron shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cron-ok/mcp) — `io.github.sadri-dridi/cron-ok`
-- [Glob pattern compile, pattern discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/glob-ok/mcp) — `io.github.sadri-dridi/glob-ok`
-- [IBAN length/charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iban-ok/mcp) — `io.github.sadri-dridi/iban-ok`
-- [TOML table count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/toml-table-count/mcp) — `io.github.sadri-dridi/toml-table-count`
-- [URL path length, URL discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-path-len/mcp) — `io.github.sadri-dridi/url-path-len`
-- [Uuencode length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuencode-len/mcp) — `io.github.sadri-dridi/uuencode-len`
-- [Query pair count, URL discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/query-pair-count/mcp) — `io.github.sadri-dridi/query-pair-count`
-- [Nautical miles to kilometers](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nmi-to-km/mcp) — `io.github.sadri-dridi/nmi-to-km`
-- [Pascals to bar](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pa-to-bar/mcp) — `io.github.sadri-dridi/pa-to-bar`
-- [Teaspoons to milliliters](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tsp-to-ml/mcp) — `io.github.sadri-dridi/tsp-to-ml`
-- [ULID Crockford charset](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ulid-crockford/mcp) — `io.github.sadri-dridi/ulid-crockford`
-- [Range header shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/range-ok/mcp) — `io.github.sadri-dridi/range-ok`
-- [Origin header shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/origin-ok/mcp) — `io.github.sadri-dridi/origin-ok`
-- [Hostname shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hostname-ok/mcp) — `io.github.sadri-dridi/hostname-ok`
-- [xxHash hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xxhash-ok/mcp) — `io.github.sadri-dridi/xxhash-ok`
-- [SipHash hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/siphash-ok/mcp) — `io.github.sadri-dridi/siphash-ok`
-- [Title-case token count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/title-case-ok/mcp) — `io.github.sadri-dridi/title-case-ok`
-- [Acres to square meters](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/acre-to-m2/mcp) — `io.github.sadri-dridi/acre-to-m2`
-- [Bar to PSI](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bar-to-psi/mcp) — `io.github.sadri-dridi/bar-to-psi`
-- [Horsepower to watts](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hp-to-watt/mcp) — `io.github.sadri-dridi/hp-to-watt`
-- [Tablespoons to milliliters](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tbsp-to-ml/mcp) — `io.github.sadri-dridi/tbsp-to-ml`
-- [Watts to horsepower](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/watt-to-hp/mcp) — `io.github.sadri-dridi/watt-to-hp`
-- [Fathoms to meters](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fathom-to-m/mcp) — `io.github.sadri-dridi/fathom-to-m`
-- [Hectares to acres](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hectare-to-acre/mcp) — `io.github.sadri-dridi/hectare-to-acre`
-- [Cookie name charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cookie-name-ok/mcp) — `io.github.sadri-dridi/cookie-name-ok`
+- [iCalendar shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ical-ok/mcp) — `io.github.sadri-dridi/ical-ok`
+- [ISSN digit shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/issn-ok/mcp) — `io.github.sadri-dridi/issn-ok`
+- [SPDX license id shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/spdx-ok/mcp) — `io.github.sadri-dridi/spdx-ok`
+- [Lowercase hex charset, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-lower-ok/mcp) — `io.github.sadri-dridi/hex-lower-ok`
+- [Uppercase hex charset, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-upper-ok/mcp) — `io.github.sadri-dridi/hex-upper-ok`
+- [Punycode length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/punycode-len/mcp) — `io.github.sadri-dridi/punycode-len`
+- [US cups to milliliters](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cup-to-ml/mcp) — `io.github.sadri-dridi/cup-to-ml`
+- [Lux to foot-candles](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lux-to-fc/mcp) — `io.github.sadri-dridi/lux-to-fc`
+- [Milliliters to teaspoons](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ml-to-tsp/mcp) — `io.github.sadri-dridi/ml-to-tsp`
+- [Firebase PushID shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pushid-shape/mcp) — `io.github.sadri-dridi/pushid-shape`
+- [TypeID shape check](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/typeid-shape/mcp) — `io.github.sadri-dridi/typeid-shape`
+- [Mongo ObjectId shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/objectid-shape/mcp) — `io.github.sadri-dridi/objectid-shape`
+- [IPv6 shape, address discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ipv6-ok/mcp) — `io.github.sadri-dridi/ipv6-ok`
+- [User-Agent length, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ua-len/mcp) — `io.github.sadri-dridi/ua-len`
+- [Content-Type token shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/content-type-ok/mcp) — `io.github.sadri-dridi/content-type-ok`
+- [sdbm hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sdbm-ok/mcp) — `io.github.sadri-dridi/sdbm-ok`
+- [CRC16 hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc16-ok/mcp) — `io.github.sadri-dridi/crc16-ok`
+- [MurmurHash hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/murmur-ok/mcp) — `io.github.sadri-dridi/murmur-ok`
+- [Whitespace token estimate, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/token-est/mcp) — `io.github.sadri-dridi/token-est`
+- [Paragraph count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/para-count/mcp) — `io.github.sadri-dridi/para-count`
+- [Grapheme length, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/grapheme-len/mcp) — `io.github.sadri-dridi/grapheme-len`
+- [ORCID shape, id discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/orcid-ok/mcp) — `io.github.sadri-dridi/orcid-ok`
+- [vCard shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/vcard-ok/mcp) — `io.github.sadri-dridi/vcard-ok`
+- [JWT three-part shape, token discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jwt-shape/mcp) — `io.github.sadri-dridi/jwt-shape`
+- [PEM fence shape, key discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pem-shape/mcp) — `io.github.sadri-dridi/pem-shape`
+- [SemVer shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/semver-ok/mcp) — `io.github.sadri-dridi/semver-ok`
+- [CSV header count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/csv-header-ok/mcp) — `io.github.sadri-dridi/csv-header-ok`
+- [XML tag count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xml-tag-count/mcp) — `io.github.sadri-dridi/xml-tag-count`
+- [JSON Schema keyword count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-schema-ok/mcp) — `io.github.sadri-dridi/json-schema-ok`
+- [YAML key count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/yaml-key-count/mcp) — `io.github.sadri-dridi/yaml-key-count`
+- [JSON Pointer shape, path discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-pointer-ok/mcp) — `io.github.sadri-dridi/json-pointer-ok`
+- [Markdown heading count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/md-heading-count/mcp) — `io.github.sadri-dridi/md-heading-count`
+- [Accept JSON hint](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/accept-json/mcp) — `io.github.sadri-dridi/accept-json`
+- [Cache-Control max-age shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cache-max-age/mcp) — `io.github.sadri-dridi/cache-max-age`
+- [FQDN shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fqdn-ok/mcp) — `io.github.sadri-dridi/fqdn-ok`
+- [IPv4 CIDR shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cidr4-ok/mcp) — `io.github.sadri-dridi/cidr4-ok`
+- [IPv6 CIDR shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cidr6-ok/mcp) — `io.github.sadri-dridi/cidr6-ok`
+- [Port 8443](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-8443/mcp) — `io.github.sadri-dridi/port-8443`
+- [MIME octet](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-octet/mcp) — `io.github.sadri-dridi/mime-octet`
+- [Port 27017](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-27017/mcp) — `io.github.sadri-dridi/port-27017`
