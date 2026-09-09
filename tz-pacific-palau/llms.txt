@@ -1,0 +1,6 @@
+# Pacific/Palau clock
+
+Current local time in Pacific/Palau.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-palau/mcp)
