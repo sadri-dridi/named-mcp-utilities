@@ -1,0 +1,6 @@
+# snake_case shape, text discarded
+
+snake_case shape, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snake-ok/mcp)

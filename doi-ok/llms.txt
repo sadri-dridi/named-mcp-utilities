@@ -1,0 +1,6 @@
+# DOI 10. prefix shape, id discarded
+
+DOI 10. prefix shape, id discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/doi-ok/mcp)
