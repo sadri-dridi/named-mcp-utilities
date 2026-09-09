@@ -1,0 +1,6 @@
+# Asia/Ulaanbaatar clock
+
+Current local time in Asia/Ulaanbaatar.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-ulaanbaatar/mcp)
