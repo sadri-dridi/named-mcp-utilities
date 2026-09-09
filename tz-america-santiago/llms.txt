@@ -1,0 +1,6 @@
+# America/Santiago clock
+
+Current local time in America/Santiago.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-santiago/mcp)

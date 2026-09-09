@@ -1,0 +1,6 @@
+# America/Santarem clock
+
+Current local time in America/Santarem.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-santarem/mcp)

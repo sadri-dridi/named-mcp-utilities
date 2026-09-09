@@ -1,0 +1,6 @@
+# America/Mazatlan clock
+
+Current local time in America/Mazatlan.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-mazatlan/mcp)
