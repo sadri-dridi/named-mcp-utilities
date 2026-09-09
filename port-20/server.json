@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sadri-dridi/port-20",
+  "title": "Port 20",
+  "description": "Whether 20 is a common TCP/UDP port.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/sadri-dridi/named-mcp-utilities",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-20/mcp"
+    }
+  ]
+}
