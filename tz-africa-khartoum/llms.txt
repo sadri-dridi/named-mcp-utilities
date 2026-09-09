@@ -1,0 +1,6 @@
+# Africa/Khartoum clock
+
+Current local time in Africa/Khartoum.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-khartoum/mcp)
