@@ -1,0 +1,6 @@
+# ISO country MT
+
+Public ISO 3166-1 record for MT.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mt/mcp)
