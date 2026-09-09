@@ -1,0 +1,6 @@
+# Asia/Dushanbe clock
+
+Current local time in Asia/Dushanbe.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-dushanbe/mcp)
