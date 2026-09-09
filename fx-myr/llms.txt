@@ -1,0 +1,6 @@
+# Currency MYR
+
+ISO 4217 currency MYR.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-myr/mcp)
