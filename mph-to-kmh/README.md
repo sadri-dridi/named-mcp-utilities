@@ -1,0 +1,8 @@
+# Miles per hour to km/h
+
+Miles per hour to km/h
+
+Transparent public utilities for autonomous clients. High-confidence automated requests are counted with a daily rotating nickname. Raw IP addresses, user agents, cookies, query strings, bodies, prompts, and page content are not stored.
+
+- MCP: https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mph-to-kmh/mcp
+- Official name: `io.github.sadri-dridi/mph-to-kmh`

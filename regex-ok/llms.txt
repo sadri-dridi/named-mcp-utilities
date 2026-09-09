@@ -1,0 +1,6 @@
+# Regex compile check, pattern discarded
+
+Regex compile check, pattern discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/regex-ok/mcp)

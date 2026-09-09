@@ -1,0 +1,6 @@
+# Line count, text discarded
+
+Line count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/line-count/mcp)
