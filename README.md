@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [Pacific/Tongatapu clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-tongatapu/mcp) — `io.github.sadri-dridi/tz-pacific-tongatapu`
-- [Africa/Addis_Ababa clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-addis-ababa/mcp) — `io.github.sadri-dridi/tz-africa-addis-ababa`
-- [America/Costa_Rica clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-costa-rica/mcp) — `io.github.sadri-dridi/tz-america-costa-rica`
+- [America/Martinique clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-martinique/mcp) — `io.github.sadri-dridi/tz-america-martinique`
+- [America/Montevideo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-montevideo/mcp) — `io.github.sadri-dridi/tz-america-montevideo`
+- [America/Whitehorse clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-whitehorse/mcp) — `io.github.sadri-dridi/tz-america-whitehorse`

@@ -1,0 +1,6 @@
+# America/Montevideo clock
+
+Current local time in America/Montevideo.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-montevideo/mcp)
