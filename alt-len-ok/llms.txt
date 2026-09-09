@@ -1,0 +1,6 @@
+# Image alt length band, text discarded
+
+Image alt length band, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/alt-len-ok/mcp)

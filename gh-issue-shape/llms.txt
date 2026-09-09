@@ -1,0 +1,6 @@
+# GitHub issue URL shape, path discarded
+
+GitHub issue URL shape, path discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-issue-shape/mcp)

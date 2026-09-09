@@ -2,48 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [US state PA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-pa/mcp) — `io.github.sadri-dridi/st-pa`
-- [US state RI](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ri/mcp) — `io.github.sadri-dridi/st-ri`
-- [US state SC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-sc/mcp) — `io.github.sadri-dridi/st-sc`
-- [US state SD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-sd/mcp) — `io.github.sadri-dridi/st-sd`
-- [US state TN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-tn/mcp) — `io.github.sadri-dridi/st-tn`
-- [US state UT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ut/mcp) — `io.github.sadri-dridi/st-ut`
-- [US state VA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-va/mcp) — `io.github.sadri-dridi/st-va`
-- [US state VT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-vt/mcp) — `io.github.sadri-dridi/st-vt`
-- [US state WI](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wi/mcp) — `io.github.sadri-dridi/st-wi`
-- [US state WV](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wv/mcp) — `io.github.sadri-dridi/st-wv`
-- [US state WY](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wy/mcp) — `io.github.sadri-dridi/st-wy`
-- [Utility 1](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-001/mcp) — `io.github.sadri-dridi/util-001`
-- [Utility 2](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-002/mcp) — `io.github.sadri-dridi/util-002`
-- [Utility 3](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-003/mcp) — `io.github.sadri-dridi/util-003`
-- [Utility 4](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-004/mcp) — `io.github.sadri-dridi/util-004`
-- [Utility 5](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-005/mcp) — `io.github.sadri-dridi/util-005`
-- [Utility 6](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-006/mcp) — `io.github.sadri-dridi/util-006`
-- [Utility 7](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-007/mcp) — `io.github.sadri-dridi/util-007`
-- [Utility 8](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-008/mcp) — `io.github.sadri-dridi/util-008`
-- [Utility 9](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-009/mcp) — `io.github.sadri-dridi/util-009`
-- [Utility 10](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-010/mcp) — `io.github.sadri-dridi/util-010`
-- [Utility 11](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-011/mcp) — `io.github.sadri-dridi/util-011`
-- [Utility 12](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-012/mcp) — `io.github.sadri-dridi/util-012`
-- [Utility 13](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-013/mcp) — `io.github.sadri-dridi/util-013`
-- [Utility 14](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-014/mcp) — `io.github.sadri-dridi/util-014`
-- [Utility 15](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-015/mcp) — `io.github.sadri-dridi/util-015`
-- [Utility 16](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-016/mcp) — `io.github.sadri-dridi/util-016`
-- [Utility 17](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-017/mcp) — `io.github.sadri-dridi/util-017`
-- [Utility 18](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-018/mcp) — `io.github.sadri-dridi/util-018`
-- [Utility 19](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-019/mcp) — `io.github.sadri-dridi/util-019`
-- [Utility 20](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-020/mcp) — `io.github.sadri-dridi/util-020`
-- [Utility 21](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-021/mcp) — `io.github.sadri-dridi/util-021`
-- [Utility 22](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-022/mcp) — `io.github.sadri-dridi/util-022`
-- [Utility 23](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-023/mcp) — `io.github.sadri-dridi/util-023`
-- [Utility 24](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-024/mcp) — `io.github.sadri-dridi/util-024`
-- [Utility 25](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-025/mcp) — `io.github.sadri-dridi/util-025`
-- [Utility 26](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-026/mcp) — `io.github.sadri-dridi/util-026`
-- [Utility 27](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-027/mcp) — `io.github.sadri-dridi/util-027`
-- [Utility 28](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-028/mcp) — `io.github.sadri-dridi/util-028`
-- [Utility 29](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-029/mcp) — `io.github.sadri-dridi/util-029`
-- [Utility 30](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-030/mcp) — `io.github.sadri-dridi/util-030`
-- [Utility 31](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-031/mcp) — `io.github.sadri-dridi/util-031`
-- [Utility 32](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-032/mcp) — `io.github.sadri-dridi/util-032`
-- [Utility 33](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-033/mcp) — `io.github.sadri-dridi/util-033`
-- [Utility 34](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/util-034/mcp) — `io.github.sadri-dridi/util-034`
+- [PNG magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/png-magic/mcp) — `io.github.sadri-dridi/png-magic`
+- [JPEG magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jpeg-magic/mcp) — `io.github.sadri-dridi/jpeg-magic`
+- [PDF magic-byte check, file discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pdf-magic/mcp) — `io.github.sadri-dridi/pdf-magic`
+- [Luhn checksum, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/luhn-ok/mcp) — `io.github.sadri-dridi/luhn-ok`
+- [JWT exp claim shape, token discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jwt-exp-shape/mcp) — `io.github.sadri-dridi/jwt-exp-shape`
+- [UUID URN shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-urn-ok/mcp) — `io.github.sadri-dridi/uuid-urn-ok`
+- [package.json key count, values discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/package-json-ok/mcp) — `io.github.sadri-dridi/package-json-ok`
+- [Dockerfile instruction count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dockerfile-ok/mcp) — `io.github.sadri-dridi/dockerfile-ok`
+- [go.mod module path shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/go-mod-ok/mcp) — `io.github.sadri-dridi/go-mod-ok`
+- [HTML tag count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/html-tag-count/mcp) — `io.github.sadri-dridi/html-tag-count`
+- [Sitemap URL count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sitemap-url-count/mcp) — `io.github.sadri-dridi/sitemap-url-count`
+- [JSON-LD @type count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jsonld-ok/mcp) — `io.github.sadri-dridi/jsonld-ok`
+- [WCAG AA contrast for two hex colors](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wcag-aa-ok/mcp) — `io.github.sadri-dridi/wcag-aa-ok`
+- [Contrast ratio vs 4.5 for one hex on white](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hex-contrast-aa/mcp) — `io.github.sadri-dridi/hex-contrast-aa`
+- [Image alt length band, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/alt-len-ok/mcp) — `io.github.sadri-dridi/alt-len-ok`
+- [US ZIP+4 shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/zip-us-ok/mcp) — `io.github.sadri-dridi/zip-us-ok`
+- [Open Location Code shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/plus-code-ok/mcp) — `io.github.sadri-dridi/plus-code-ok`
+- [IATA airport code shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iata-ok/mcp) — `io.github.sadri-dridi/iata-ok`
+- [Unix seconds to UTC ISO, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-to-iso/mcp) — `io.github.sadri-dridi/unix-to-iso`
+- [Whether current UTC hour is 09-17](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/business-hours-utc/mcp) — `io.github.sadri-dridi/business-hours-utc`
+- [Approximate sunrise hour UTC for a latitude](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sunrise-hint/mcp) — `io.github.sadri-dridi/sunrise-hint`
+- [http/https scheme check, URL discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-scheme-ok/mcp) — `io.github.sadri-dridi/url-scheme-ok`
+- [GitHub issue URL shape, path discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-issue-shape/mcp) — `io.github.sadri-dridi/gh-issue-shape`
+- [GitHub pull request URL shape, path discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-pr-shape/mcp) — `io.github.sadri-dridi/gh-pr-shape`

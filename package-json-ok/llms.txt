@@ -1,0 +1,6 @@
+# package.json key count, values discarded
+
+package.json key count, values discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/package-json-ok/mcp)
