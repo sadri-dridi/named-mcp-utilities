@@ -1,0 +1,6 @@
+# Europe/Athens clock
+
+Current local time in Europe/Athens.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-europe-athens/mcp)
