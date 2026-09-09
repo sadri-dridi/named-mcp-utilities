@@ -1,0 +1,6 @@
+# US state NC
+
+USPS state code NC.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-nc/mcp)

@@ -1,0 +1,6 @@
+# US state CO
+
+USPS state code CO.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-co/mcp)

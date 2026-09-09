@@ -1,0 +1,6 @@
+# US state MN
+
+USPS state code MN.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-mn/mcp)

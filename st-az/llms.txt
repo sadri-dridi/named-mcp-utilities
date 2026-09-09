@@ -1,0 +1,6 @@
+# US state AZ
+
+USPS state code AZ.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-az/mcp)

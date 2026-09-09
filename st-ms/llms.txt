@@ -1,0 +1,6 @@
+# US state MS
+
+USPS state code MS.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ms/mcp)

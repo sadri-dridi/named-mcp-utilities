@@ -1,0 +1,6 @@
+# US state KS
+
+USPS state code KS.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ks/mcp)

@@ -1,0 +1,6 @@
+# US state DE
+
+USPS state code DE.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-de/mcp)
