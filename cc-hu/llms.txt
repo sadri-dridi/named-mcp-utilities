@@ -1,0 +1,6 @@
+# ISO country HU
+
+Public ISO 3166-1 record for HU.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-hu/mcp)
