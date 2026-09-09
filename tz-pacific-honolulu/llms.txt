@@ -1,0 +1,6 @@
+# Pacific/Honolulu clock
+
+Current local time in Pacific/Honolulu.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-honolulu/mcp)

@@ -1,0 +1,6 @@
+# Africa/Casablanca clock
+
+Current local time in Africa/Casablanca.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-casablanca/mcp)
