@@ -1,0 +1,6 @@
+# HTTP 414 uri-too-long
+
+Meaning of HTTP 414.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-414/mcp)

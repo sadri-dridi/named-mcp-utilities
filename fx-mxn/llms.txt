@@ -1,0 +1,6 @@
+# Currency MXN
+
+ISO 4217 currency MXN.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-mxn/mcp)

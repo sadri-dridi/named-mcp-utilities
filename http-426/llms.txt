@@ -1,0 +1,6 @@
+# HTTP 426 upgrade-required
+
+Meaning of HTTP 426.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-426/mcp)

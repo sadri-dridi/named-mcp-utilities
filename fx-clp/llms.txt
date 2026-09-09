@@ -1,0 +1,6 @@
+# Currency CLP
+
+ISO 4217 currency CLP.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-clp/mcp)

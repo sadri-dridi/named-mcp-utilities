@@ -1,0 +1,6 @@
+# HTTP 408 request-timeout
+
+Meaning of HTTP 408.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-408/mcp)

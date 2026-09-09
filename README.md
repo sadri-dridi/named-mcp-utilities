@@ -2,27 +2,35 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [US state CA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ca/mcp) — `io.github.sadri-dridi/st-ca`
-- [US state NY](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-ny/mcp) — `io.github.sadri-dridi/st-ny`
-- [US state TX](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-tx/mcp) — `io.github.sadri-dridi/st-tx`
-- [HTTP 409 conflict](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-409/mcp) — `io.github.sadri-dridi/http-409`
-- [HTTP 415 unsupported-media](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-415/mcp) — `io.github.sadri-dridi/http-415`
-- [HTTP 422 unprocessable](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-422/mcp) — `io.github.sadri-dridi/http-422`
-- [Asia/Colombo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-colombo/mcp) — `io.github.sadri-dridi/tz-asia-colombo`
-- [Asia/Irkutsk clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-irkutsk/mcp) — `io.github.sadri-dridi/tz-asia-irkutsk`
-- [Asia/Jakarta clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-jakarta/mcp) — `io.github.sadri-dridi/tz-asia-jakarta`
-- [Currency AUD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-aud/mcp) — `io.github.sadri-dridi/fx-aud`
-- [Currency BRL](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-brl/mcp) — `io.github.sadri-dridi/fx-brl`
-- [Currency CHF](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-chf/mcp) — `io.github.sadri-dridi/fx-chf`
-- [Seconds to minutes](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sec-to-min/mcp) — `io.github.sadri-dridi/sec-to-min`
-- [Minutes to seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/min-to-sec/mcp) — `io.github.sadri-dridi/min-to-sec`
-- [8 random hex chars](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/random-hex8/mcp) — `io.github.sadri-dridi/random-hex8`
-- [MIME plain](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-plain/mcp) — `io.github.sadri-dridi/mime-plain`
-- [MIME csv](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mime-csv/mcp) — `io.github.sadri-dridi/mime-csv`
-- [Port 8080](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/port-8080/mcp) — `io.github.sadri-dridi/port-8080`
-- [UTC milliseconds remainder](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ms-utc/mcp) — `io.github.sadri-dridi/ms-utc`
-- [US state FL](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-fl/mcp) — `io.github.sadri-dridi/st-fl`
-- [US state WA](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/st-wa/mcp) — `io.github.sadri-dridi/st-wa`
-- [ISO country BO](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bo/mcp) — `io.github.sadri-dridi/cc-bo`
-- [ISO country BQ](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bq/mcp) — `io.github.sadri-dridi/cc-bq`
-- [ISO country BS](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bs/mcp) — `io.github.sadri-dridi/cc-bs`
+- [ISO country BT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bt/mcp) — `io.github.sadri-dridi/cc-bt`
+- [ISO country BV](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bv/mcp) — `io.github.sadri-dridi/cc-bv`
+- [ISO country BW](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bw/mcp) — `io.github.sadri-dridi/cc-bw`
+- [HTTP 406 not-acceptable](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-406/mcp) — `io.github.sadri-dridi/http-406`
+- [HTTP 408 request-timeout](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-408/mcp) — `io.github.sadri-dridi/http-408`
+- [HTTP 412 precondition-failed](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-412/mcp) — `io.github.sadri-dridi/http-412`
+- [Asia/Karachi clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-karachi/mcp) — `io.github.sadri-dridi/tz-asia-karachi`
+- [Asia/Kolkata clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-kolkata/mcp) — `io.github.sadri-dridi/tz-asia-kolkata`
+- [Asia/Magadan clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-magadan/mcp) — `io.github.sadri-dridi/tz-asia-magadan`
+- [Currency MXN](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-mxn/mcp) — `io.github.sadri-dridi/fx-mxn`
+- [Currency AED](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-aed/mcp) — `io.github.sadri-dridi/fx-aed`
+- [Currency CLP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-clp/mcp) — `io.github.sadri-dridi/fx-clp`
+- [ETag shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/etag-shape/mcp) — `io.github.sadri-dridi/etag-shape`
+- [MAC address shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mac-shape/mcp) — `io.github.sadri-dridi/mac-shape`
+- [CIDR shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cidr-shape/mcp) — `io.github.sadri-dridi/cidr-shape`
+- [ISO country BY](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-by/mcp) — `io.github.sadri-dridi/cc-by`
+- [ISO country BZ](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-bz/mcp) — `io.github.sadri-dridi/cc-bz`
+- [ISO country CC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cc/mcp) — `io.github.sadri-dridi/cc-cc`
+- [ISO country CD](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cd/mcp) — `io.github.sadri-dridi/cc-cd`
+- [ISO country CF](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cf/mcp) — `io.github.sadri-dridi/cc-cf`
+- [ISO country CG](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-cg/mcp) — `io.github.sadri-dridi/cc-cg`
+- [HTTP 413 payload-too-large](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-413/mcp) — `io.github.sadri-dridi/http-413`
+- [HTTP 414 uri-too-long](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-414/mcp) — `io.github.sadri-dridi/http-414`
+- [HTTP 425 too-early](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-425/mcp) — `io.github.sadri-dridi/http-425`
+- [HTTP 426 upgrade-required](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-426/mcp) — `io.github.sadri-dridi/http-426`
+- [HTTP 428 precondition-required](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-428/mcp) — `io.github.sadri-dridi/http-428`
+- [HTTP 431 header-fields-too-large](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-431/mcp) — `io.github.sadri-dridi/http-431`
+- [HTTP 451 unavailable-legal](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-451/mcp) — `io.github.sadri-dridi/http-451`
+- [HTTP 501 not-implemented](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-501/mcp) — `io.github.sadri-dridi/http-501`
+- [HTTP 505 http-version](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-505/mcp) — `io.github.sadri-dridi/http-505`
+- [HTTP 507 insufficient-storage](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-507/mcp) — `io.github.sadri-dridi/http-507`
+- [HTTP 511 network-auth](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-511/mcp) — `io.github.sadri-dridi/http-511`
