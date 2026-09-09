@@ -1,0 +1,6 @@
+# Pacific/Norfolk clock
+
+Current local time in Pacific/Norfolk.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-norfolk/mcp)

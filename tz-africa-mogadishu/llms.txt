@@ -1,0 +1,6 @@
+# Africa/Mogadishu clock
+
+Current local time in Africa/Mogadishu.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-mogadishu/mcp)
