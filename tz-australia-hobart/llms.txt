@@ -1,0 +1,6 @@
+# Australia/Hobart clock
+
+Current local time in Australia/Hobart.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-australia-hobart/mcp)
