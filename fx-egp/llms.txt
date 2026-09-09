@@ -1,0 +1,6 @@
+# Currency EGP
+
+ISO 4217 currency EGP.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-egp/mcp)

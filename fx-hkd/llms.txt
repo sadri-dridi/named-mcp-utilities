@@ -1,0 +1,6 @@
+# Currency HKD
+
+ISO 4217 currency HKD.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-hkd/mcp)
