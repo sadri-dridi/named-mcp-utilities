@@ -1,0 +1,6 @@
+# Square-bracket id shape, value discarded
+
+Square-bracket id shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/square-ok/mcp)

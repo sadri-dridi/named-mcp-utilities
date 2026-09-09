@@ -1,0 +1,6 @@
+# Integer power band, numbers discarded
+
+Integer power band, numbers discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pow-ok/mcp)

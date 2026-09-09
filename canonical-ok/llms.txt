@@ -1,0 +1,6 @@
+# HTML canonical link count, markup discarded
+
+HTML canonical link count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/canonical-ok/mcp)

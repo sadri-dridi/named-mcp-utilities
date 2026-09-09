@@ -1,0 +1,6 @@
+# Avro object-container magic, body discarded
+
+Avro object-container magic, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/avro-ok/mcp)
