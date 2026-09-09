@@ -1,0 +1,6 @@
+# Africa/Djibouti clock
+
+Current local time in Africa/Djibouti.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-djibouti/mcp)
