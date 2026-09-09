@@ -1,0 +1,6 @@
+# America/Panama clock
+
+Current local time in America/Panama.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-panama/mcp)
