@@ -1,0 +1,6 @@
+# Asia/Samarkand clock
+
+Current local time in Asia/Samarkand.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-samarkand/mcp)
