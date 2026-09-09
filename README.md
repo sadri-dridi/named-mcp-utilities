@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [ISO country MR](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mr/mcp) — `io.github.sadri-dridi/cc-mr`
-- [ISO country MS](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-ms/mcp) — `io.github.sadri-dridi/cc-ms`
-- [ISO country MT](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mt/mcp) — `io.github.sadri-dridi/cc-mt`
+- [ISO country MU](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mu/mcp) — `io.github.sadri-dridi/cc-mu`
+- [ISO country MV](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mv/mcp) — `io.github.sadri-dridi/cc-mv`
+- [ISO country MW](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cc-mw/mcp) — `io.github.sadri-dridi/cc-mw`
