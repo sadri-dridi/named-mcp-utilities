@@ -1,0 +1,6 @@
+# America/La_Paz clock
+
+Current local time in America/La_Paz.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-la-paz/mcp)
