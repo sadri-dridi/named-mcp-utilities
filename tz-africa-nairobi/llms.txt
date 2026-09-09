@@ -1,0 +1,6 @@
+# Africa/Nairobi clock
+
+Current local time in Africa/Nairobi.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-africa-nairobi/mcp)
