@@ -1,0 +1,6 @@
+# PubMed id shape, value discarded
+
+PubMed id shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pmid-ok/mcp)

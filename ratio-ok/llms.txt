@@ -1,0 +1,6 @@
+# a/b ratio shape, numbers discarded
+
+a/b ratio shape, numbers discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ratio-ok/mcp)

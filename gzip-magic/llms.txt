@@ -1,0 +1,6 @@
+# GZIP magic-byte check, file discarded
+
+GZIP magic-byte check, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gzip-magic/mcp)

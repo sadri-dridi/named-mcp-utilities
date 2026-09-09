@@ -1,0 +1,6 @@
+# JS import count, source discarded
+
+JS import count, source discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/js-import-count/mcp)

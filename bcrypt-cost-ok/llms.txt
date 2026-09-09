@@ -1,0 +1,6 @@
+# bcrypt cost prefix check, hash discarded
+
+bcrypt cost prefix check, hash discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bcrypt-cost-ok/mcp)

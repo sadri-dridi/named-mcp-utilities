@@ -1,0 +1,6 @@
+# a as percent of b, numbers discarded
+
+a as percent of b, numbers discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/percent-of/mcp)
