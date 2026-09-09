@@ -1,0 +1,6 @@
+# Currency CZK
+
+ISO 4217 currency CZK.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fx-czk/mcp)
