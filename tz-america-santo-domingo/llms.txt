@@ -1,0 +1,6 @@
+# America/Santo_Domingo clock
+
+Current local time in America/Santo_Domingo.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-santo-domingo/mcp)

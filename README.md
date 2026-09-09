@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [America/Buenos_Aires clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-buenos-aires/mcp) — `io.github.sadri-dridi/tz-america-buenos-aires`
-- [America/Punta_Arenas clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-punta-arenas/mcp) — `io.github.sadri-dridi/tz-america-punta-arenas`
-- [America/Rankin_Inlet clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-rankin-inlet/mcp) — `io.github.sadri-dridi/tz-america-rankin-inlet`
+- [Pacific/Port_Moresby clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-port-moresby/mcp) — `io.github.sadri-dridi/tz-pacific-port-moresby`
+- [America/Santo_Domingo clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-santo-domingo/mcp) — `io.github.sadri-dridi/tz-america-santo-domingo`
+- [America/Port-au-Prince clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-port-au-prince/mcp) — `io.github.sadri-dridi/tz-america-port-au-prince`

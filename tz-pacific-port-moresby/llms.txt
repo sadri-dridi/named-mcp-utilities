@@ -1,0 +1,6 @@
+# Pacific/Port_Moresby clock
+
+Current local time in Pacific/Port_Moresby.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-port-moresby/mcp)
