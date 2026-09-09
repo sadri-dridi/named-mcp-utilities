@@ -1,0 +1,6 @@
+# America/Phoenix clock
+
+Current local time in America/Phoenix.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-phoenix/mcp)

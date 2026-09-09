@@ -1,0 +1,6 @@
+# America/Tijuana clock
+
+Current local time in America/Tijuana.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-tijuana/mcp)

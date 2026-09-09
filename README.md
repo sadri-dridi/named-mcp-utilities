@@ -2,6 +2,6 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [America/Halifax clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-halifax/mcp) — `io.github.sadri-dridi/tz-america-halifax`
-- [America/Jamaica clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-jamaica/mcp) — `io.github.sadri-dridi/tz-america-jamaica`
-- [America/Mendoza clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-mendoza/mcp) — `io.github.sadri-dridi/tz-america-mendoza`
+- [America/Phoenix clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-phoenix/mcp) — `io.github.sadri-dridi/tz-america-phoenix`
+- [America/Tijuana clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-tijuana/mcp) — `io.github.sadri-dridi/tz-america-tijuana`
+- [Asia/Phnom_Penh clock](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-phnom-penh/mcp) — `io.github.sadri-dridi/tz-asia-phnom-penh`

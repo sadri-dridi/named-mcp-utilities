@@ -1,0 +1,6 @@
+# Asia/Phnom_Penh clock
+
+Current local time in Asia/Phnom_Penh.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-asia-phnom-penh/mcp)
