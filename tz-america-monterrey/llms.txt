@@ -1,0 +1,6 @@
+# America/Monterrey clock
+
+Current local time in America/Monterrey.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-america-monterrey/mcp)
