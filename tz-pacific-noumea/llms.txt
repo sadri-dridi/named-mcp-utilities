@@ -1,0 +1,6 @@
+# Pacific/Noumea clock
+
+Current local time in Pacific/Noumea.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-noumea/mcp)

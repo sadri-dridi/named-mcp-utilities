@@ -1,0 +1,6 @@
+# Pacific/Midway clock
+
+Current local time in Pacific/Midway.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-midway/mcp)
