@@ -1,0 +1,6 @@
+# Pacific/Guam clock
+
+Current local time in Pacific/Guam.
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tz-pacific-guam/mcp)
