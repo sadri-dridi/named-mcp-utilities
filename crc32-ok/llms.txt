@@ -1,0 +1,6 @@
+# CRC32 hex, input discarded
+
+CRC32 hex, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc32-ok/mcp)

@@ -1,0 +1,6 @@
+# KSUID shape check
+
+KSUID shape check
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ksuid-shape/mcp)

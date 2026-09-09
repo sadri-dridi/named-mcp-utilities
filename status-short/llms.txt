@@ -1,0 +1,6 @@
+# Short status catalog
+
+Short status catalog
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/status-short/mcp)
