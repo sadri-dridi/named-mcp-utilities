@@ -1,0 +1,6 @@
+# Parquet magic-byte check, file discarded
+
+Parquet magic-byte check, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/parquet-ok/mcp)

@@ -1,0 +1,6 @@
+# RFC 2047 encoded-word shape, input discarded
+
+RFC 2047 encoded-word shape, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/quoted-ok/mcp)

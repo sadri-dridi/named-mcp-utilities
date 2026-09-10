@@ -1,0 +1,6 @@
+# Joules to calories, number discarded
+
+Joules to calories, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/joule-cal/mcp)

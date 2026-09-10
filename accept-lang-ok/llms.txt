@@ -1,0 +1,6 @@
+# Accept-Language tag count, value discarded
+
+Accept-Language tag count, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/accept-lang-ok/mcp)

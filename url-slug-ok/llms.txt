@@ -1,0 +1,6 @@
+# URL slug charset, value discarded
+
+URL slug charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-slug-ok/mcp)
