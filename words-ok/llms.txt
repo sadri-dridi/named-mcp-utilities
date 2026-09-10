@@ -1,0 +1,6 @@
+# Whitespace word count, text discarded
+
+Whitespace word count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/words-ok/mcp)

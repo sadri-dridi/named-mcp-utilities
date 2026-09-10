@@ -1,0 +1,6 @@
+# FNV-1a 64 hex length, input discarded
+
+FNV-1a 64 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fnv64-len/mcp)

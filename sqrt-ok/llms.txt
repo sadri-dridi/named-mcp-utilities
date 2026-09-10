@@ -1,0 +1,6 @@
+# Integer square-root band, number discarded
+
+Integer square-root band, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sqrt-ok/mcp)

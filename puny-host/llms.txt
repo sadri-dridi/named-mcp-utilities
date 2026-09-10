@@ -1,0 +1,6 @@
+# Punycode host shape, value discarded
+
+Punycode host shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/puny-host/mcp)
