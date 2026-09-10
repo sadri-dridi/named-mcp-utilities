@@ -1,0 +1,6 @@
+# Whether a token is an HTTP method
+
+Whether a token is an HTTP method
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/method-token-ok/mcp)

@@ -1,0 +1,6 @@
+# Uuencode begin-line shape, input discarded
+
+Uuencode begin-line shape, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuencode-ok/mcp)

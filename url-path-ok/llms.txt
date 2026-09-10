@@ -1,0 +1,6 @@
+# URL path segment count, query discarded
+
+URL path segment count, query discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-path-ok/mcp)
