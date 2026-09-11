@@ -1,0 +1,6 @@
+# Wavefront OBJ vertex count, file discarded
+
+Wavefront OBJ vertex count, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/obj-ok/mcp)
