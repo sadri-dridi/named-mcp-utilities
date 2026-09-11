@@ -1,0 +1,6 @@
+# Bencode integer/dict prefix, input discarded
+
+Bencode integer/dict prefix, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bencode-ok/mcp)

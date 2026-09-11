@@ -1,0 +1,6 @@
+# MurmurHash3 hex length, input discarded
+
+MurmurHash3 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/murmur3-ok/mcp)

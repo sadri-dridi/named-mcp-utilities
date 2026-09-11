@@ -1,0 +1,6 @@
+# UUID v2 DCE layout, value discarded
+
+UUID v2 DCE layout, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid2-ok/mcp)

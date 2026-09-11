@@ -1,0 +1,6 @@
+# UUID v5 SHA1-name layout, value discarded
+
+UUID v5 SHA1-name layout, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid5-ok/mcp)

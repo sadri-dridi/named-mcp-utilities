@@ -1,0 +1,6 @@
+# Warning warn-code band, value discarded
+
+Warning warn-code band, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/warning-ok/mcp)
