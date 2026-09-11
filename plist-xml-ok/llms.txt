@@ -1,0 +1,6 @@
+# XML plist dict count, body discarded
+
+XML plist dict count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/plist-xml-ok/mcp)
