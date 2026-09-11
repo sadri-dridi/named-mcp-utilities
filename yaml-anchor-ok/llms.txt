@@ -1,0 +1,6 @@
+# YAML anchor count, body discarded
+
+YAML anchor count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/yaml-anchor-ok/mcp)

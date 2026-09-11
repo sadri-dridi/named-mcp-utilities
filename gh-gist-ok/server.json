@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sadri-dridi/gh-gist-ok",
+  "title": "GitHub gist id charset, value discarded",
+  "description": "GitHub gist id charset, value discarded",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/sadri-dridi/named-mcp-utilities",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-gist-ok/mcp"
+    }
+  ]
+}

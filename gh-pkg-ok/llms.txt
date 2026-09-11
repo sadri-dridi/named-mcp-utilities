@@ -1,0 +1,6 @@
+# GitHub packages name shape, value discarded
+
+GitHub packages name shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-pkg-ok/mcp)
