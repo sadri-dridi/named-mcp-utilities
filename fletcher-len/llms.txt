@@ -1,0 +1,6 @@
+# Fletcher-32 hex length, input discarded
+
+Fletcher-32 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fletcher-len/mcp)

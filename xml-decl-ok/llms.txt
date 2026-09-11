@@ -1,0 +1,6 @@
+# XML declaration shape, markup discarded
+
+XML declaration shape, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xml-decl-ok/mcp)

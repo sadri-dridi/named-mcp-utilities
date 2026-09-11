@@ -1,0 +1,6 @@
+# JSON type-tag count, values discarded
+
+JSON type-tag count, values discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-type-ok/mcp)

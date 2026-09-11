@@ -1,0 +1,6 @@
+# Range bytes start-end shape, value discarded
+
+Range bytes start-end shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/range-bytes/mcp)
