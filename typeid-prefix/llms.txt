@@ -1,0 +1,6 @@
+# TypeID prefix charset, value discarded
+
+TypeID prefix charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/typeid-prefix/mcp)

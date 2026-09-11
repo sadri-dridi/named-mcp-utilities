@@ -1,0 +1,6 @@
+# lockfile entry-band, body discarded
+
+lockfile entry-band, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lockfile-ok/mcp)
