@@ -1,0 +1,6 @@
+# snake_case segment count, value discarded
+
+snake_case segment count, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snake-n/mcp)

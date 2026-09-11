@@ -1,0 +1,6 @@
+# WKT geometry token, value discarded
+
+WKT geometry token, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wkt-ok/mcp)
