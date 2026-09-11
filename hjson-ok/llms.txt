@@ -1,0 +1,6 @@
+# Hjson comment shape, body discarded
+
+Hjson comment shape, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hjson-ok/mcp)

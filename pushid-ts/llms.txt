@@ -1,0 +1,6 @@
+# Firebase push-id time prefix, value discarded
+
+Firebase push-id time prefix, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pushid-ts/mcp)
