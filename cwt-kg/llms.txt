@@ -1,0 +1,6 @@
+# Hundredweight to kilograms, number discarded
+
+Hundredweight to kilograms, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cwt-kg/mcp)

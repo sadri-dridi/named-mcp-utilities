@@ -1,0 +1,6 @@
+# Baudot 5-bit band, input discarded
+
+Baudot 5-bit band, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/baudot-ok/mcp)

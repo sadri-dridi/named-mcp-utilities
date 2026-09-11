@@ -1,0 +1,6 @@
+# UTF-16 code-unit count, text discarded
+
+UTF-16 code-unit count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf16-n/mcp)
