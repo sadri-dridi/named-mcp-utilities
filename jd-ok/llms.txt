@@ -1,0 +1,6 @@
+# Julian Day integer band
+
+Julian Day integer band
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jd-ok/mcp)

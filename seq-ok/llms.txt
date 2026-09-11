@@ -1,0 +1,6 @@
+# monotonic sequence digit band, value discarded
+
+monotonic sequence digit band, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/seq-ok/mcp)
