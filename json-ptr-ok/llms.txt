@@ -1,0 +1,6 @@
+# JSON Pointer token count, path discarded
+
+JSON Pointer token count, path discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-ptr-ok/mcp)

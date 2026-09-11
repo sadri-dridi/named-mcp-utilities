@@ -1,0 +1,6 @@
+# INI key count, values discarded
+
+INI key count, values discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ini-keys-ok/mcp)

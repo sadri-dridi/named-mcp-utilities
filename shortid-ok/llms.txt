@@ -1,0 +1,6 @@
+# shortid charset, value discarded
+
+shortid charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shortid-ok/mcp)

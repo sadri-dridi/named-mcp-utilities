@@ -1,0 +1,6 @@
+# arXiv URI id shape, value discarded
+
+arXiv URI id shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arxiv-uri/mcp)
