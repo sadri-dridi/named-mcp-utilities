@@ -1,0 +1,6 @@
+# Authentication-Info nextnonce shape, value discarded
+
+Authentication-Info nextnonce shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/auth-info/mcp)
