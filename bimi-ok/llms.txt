@@ -1,0 +1,6 @@
+# BIMI location URL shape, value discarded
+
+BIMI location URL shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bimi-ok/mcp)

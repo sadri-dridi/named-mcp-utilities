@@ -1,0 +1,6 @@
+# ELF magic e_type band, bytes discarded
+
+ELF magic e_type band, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/elf-ok/mcp)

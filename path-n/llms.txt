@@ -1,0 +1,6 @@
+# path/case segment count, text discarded
+
+path/case segment count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/path-n/mcp)
