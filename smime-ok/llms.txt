@@ -1,0 +1,6 @@
+# S/MIME PKCS7 fence, body discarded
+
+S/MIME PKCS7 fence, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/smime-ok/mcp)

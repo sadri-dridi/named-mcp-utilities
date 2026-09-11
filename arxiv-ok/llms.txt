@@ -1,0 +1,6 @@
+# arXiv id version shape, value discarded
+
+arXiv id version shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arxiv-ok/mcp)

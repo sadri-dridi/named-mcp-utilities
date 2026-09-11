@@ -1,0 +1,6 @@
+# Title Case token count, text discarded
+
+Title Case token count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/title-n/mcp)
