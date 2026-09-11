@@ -1,0 +1,6 @@
+# Arcseconds to degrees, number discarded
+
+Arcseconds to degrees, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arcsec-deg/mcp)
