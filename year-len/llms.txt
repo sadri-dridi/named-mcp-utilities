@@ -1,0 +1,6 @@
+# Days in current UTC year
+
+Days in current UTC year
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/year-len/mcp)

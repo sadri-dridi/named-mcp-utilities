@@ -1,0 +1,6 @@
+# HMAC-SHA256 hex length, input discarded
+
+HMAC-SHA256 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hmac256-len/mcp)

@@ -1,0 +1,6 @@
+# ISO-8859-1 byte band, value discarded
+
+ISO-8859-1 byte band, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/latin1-ok/mcp)

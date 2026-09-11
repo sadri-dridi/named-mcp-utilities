@@ -1,0 +1,6 @@
+# magnet: xt shape, value discarded
+
+magnet: xt shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/magnet-ok/mcp)

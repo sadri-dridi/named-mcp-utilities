@@ -1,0 +1,6 @@
+# RFC 3986 unreserved charset, input discarded
+
+RFC 3986 unreserved charset, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rfc3986-ok/mcp)

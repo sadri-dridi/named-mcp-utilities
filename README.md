@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [INI key count, values discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ini-keys-ok/mcp) — `io.github.sadri-dridi/ini-keys-ok`
-- [JSON minify shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-min-ok/mcp) — `io.github.sadri-dridi/json-min-ok`
-- [JSON Pointer token count, path discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-ptr-ok/mcp) — `io.github.sadri-dridi/json-ptr-ok`
-- [arXiv URI id shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/arxiv-uri/mcp) — `io.github.sadri-dridi/arxiv-uri`
-- [BinHex colon-frame, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/binhex-ok/mcp) — `io.github.sadri-dridi/binhex-ok`
-- [CSS escape sequence count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cssesc-ok/mcp) — `io.github.sadri-dridi/cssesc-ok`
-- [Bar to atmospheres, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bar-atm/mcp) — `io.github.sadri-dridi/bar-atm`
-- [US fluid ounces to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/floz-ml/mcp) — `io.github.sadri-dridi/floz-ml`
-- [Kilohertz to megahertz, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/khz-mhz/mcp) — `io.github.sadri-dridi/khz-mhz`
-- [Firebase push-id 20-char, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pushid-ok2/mcp) — `io.github.sadri-dridi/pushid-ok2`
-- [shortid charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shortid-ok/mcp) — `io.github.sadri-dridi/shortid-ok`
-- [TypeID prefix_suffix, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/typeid-ok2/mcp) — `io.github.sadri-dridi/typeid-ok2`
-- [Last-Modified HTTP-date shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lastmod-ok/mcp) — `io.github.sadri-dridi/lastmod-ok`
-- [Proxy-Authenticate scheme token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/proxy-auth/mcp) — `io.github.sadri-dridi/proxy-auth`
-- [Refresh seconds;url shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/refresh-ok/mcp) — `io.github.sadri-dridi/refresh-ok`
-- [SHA-512 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha512-len/mcp) — `io.github.sadri-dridi/sha512-len`
-- [XXH128 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xxh128-len/mcp) — `io.github.sadri-dridi/xxh128-len`
-- [argon2id encoded hash shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/argon2id-ok/mcp) — `io.github.sadri-dridi/argon2id-ok`
-- [Unix seconds to ISO date, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-iso/mcp) — `io.github.sadri-dridi/unix-iso`
-- [Unix month 1-12 from seconds](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-mon/mcp) — `io.github.sadri-dridi/unix-mon`
-- [UTC Monday of the current ISO week](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/week-mon/mcp) — `io.github.sadri-dridi/week-mon`
-- [UPPERCASE charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/upper-ok/mcp) — `io.github.sadri-dridi/upper-ok`
-- [UTF-16 BOM/length band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf16-ok/mcp) — `io.github.sadri-dridi/utf16-ok`
-- [at-handle charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/handle-ok/mcp) — `io.github.sadri-dridi/handle-ok`
+- [SVG path command count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/svg-path-ok/mcp) — `io.github.sadri-dridi/svg-path-ok`
+- [TOML array-of-tables count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/toml-arr-ok/mcp) — `io.github.sadri-dridi/toml-arr-ok`
+- [TopoJSON object count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/topojson-ok/mcp) — `io.github.sadri-dridi/topojson-ok`
+- [magnet: xt shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/magnet-ok/mcp) — `io.github.sadri-dridi/magnet-ok`
+- [POSIX shell quote shape, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shell-esc/mcp) — `io.github.sadri-dridi/shell-esc`
+- [RFC 3986 unreserved charset, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rfc3986-ok/mcp) — `io.github.sadri-dridi/rfc3986-ok`
+- [Kilopascals to bar, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/kpa-bar/mcp) — `io.github.sadri-dridi/kpa-bar`
+- [Mach number to m/s at STP, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mach-ms/mcp) — `io.github.sadri-dridi/mach-ms`
+- [Megahertz to gigahertz, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mhz-ghz/mcp) — `io.github.sadri-dridi/mhz-ghz`
+- [content-address hex length, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/contentid-ok/mcp) — `io.github.sadri-dridi/contentid-ok`
+- [multibase prefix charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/multibase-ok/mcp) — `io.github.sadri-dridi/multibase-ok`
+- [multihash prefix shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/multihash-ok/mcp) — `io.github.sadri-dridi/multihash-ok`
+- [Trailer field-name count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/trailer-ok/mcp) — `io.github.sadri-dridi/trailer-ok`
+- [Upgrade protocol token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/upgrade-ok/mcp) — `io.github.sadri-dridi/upgrade-ok`
+- [Forwarded for= hop count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/forwarded-n/mcp) — `io.github.sadri-dridi/forwarded-n`
+- [BLAKE2b hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/blake2b-len/mcp) — `io.github.sadri-dridi/blake2b-len`
+- [BLAKE2s hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/blake2s-len/mcp) — `io.github.sadri-dridi/blake2s-len`
+- [HMAC-SHA256 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hmac256-len/mcp) — `io.github.sadri-dridi/hmac256-len`
+- [UTC Thursday of the current ISO week](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/week-thu/mcp) — `io.github.sadri-dridi/week-thu`
+- [Days in current UTC year](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/year-len/mcp) — `io.github.sadri-dridi/year-len`
+- [Days in current UTC month](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/month-len/mcp) — `io.github.sadri-dridi/month-len`
+- [ISO-8859-1 byte band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/latin1-ok/mcp) — `io.github.sadri-dridi/latin1-ok`
+- [URL-ish token charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/urlish-ok/mcp) — `io.github.sadri-dridi/urlish-ok`
+- [grapheme-cluster count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/grapheme-n/mcp) — `io.github.sadri-dridi/grapheme-n`

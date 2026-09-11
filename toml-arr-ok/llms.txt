@@ -1,0 +1,6 @@
+# TOML array-of-tables count, body discarded
+
+TOML array-of-tables count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/toml-arr-ok/mcp)
