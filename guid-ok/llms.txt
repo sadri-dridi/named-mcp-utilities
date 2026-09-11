@@ -1,0 +1,6 @@
+# Windows GUID braces shape, value discarded
+
+Windows GUID braces shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/guid-ok/mcp)

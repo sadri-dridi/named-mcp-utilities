@@ -1,0 +1,6 @@
+# X-Forwarded-For hop count, value discarded
+
+X-Forwarded-For hop count, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xff-ok/mcp)

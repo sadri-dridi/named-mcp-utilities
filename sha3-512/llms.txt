@@ -1,0 +1,6 @@
+# SHA3-512 hex length, input discarded
+
+SHA3-512 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha3-512/mcp)

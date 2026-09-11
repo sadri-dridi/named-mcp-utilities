@@ -1,0 +1,6 @@
+# acct: URI shape, value discarded
+
+acct: URI shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/acct-ok/mcp)

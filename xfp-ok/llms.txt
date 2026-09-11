@@ -1,0 +1,6 @@
+# X-Forwarded-Proto http/https, value discarded
+
+X-Forwarded-Proto http/https, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xfp-ok/mcp)
