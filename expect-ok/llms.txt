@@ -1,0 +1,6 @@
+# Expect 100-continue shape, value discarded
+
+Expect 100-continue shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/expect-ok/mcp)

@@ -1,0 +1,6 @@
+# ISBN URN shape, value discarded
+
+ISBN URN shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isbn-uri/mcp)

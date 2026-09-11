@@ -1,0 +1,6 @@
+# data: URL media-type shape, value discarded
+
+data: URL media-type shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/data-url/mcp)

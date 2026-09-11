@@ -1,0 +1,6 @@
+# Base62 id charset, value discarded
+
+Base62 id charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/base62-id/mcp)
