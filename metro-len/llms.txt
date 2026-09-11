@@ -1,0 +1,6 @@
+# MetroHash hex length, input discarded
+
+MetroHash hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/metro-len/mcp)
