@@ -1,0 +1,6 @@
+# If-None-Match star-or-etag, value discarded
+
+If-None-Match star-or-etag, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/if-none-ok/mcp)

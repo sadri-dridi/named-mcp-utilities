@@ -1,0 +1,6 @@
+# ROT47 charset transform length, input discarded
+
+ROT47 charset transform length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rot47-ok/mcp)

@@ -1,0 +1,6 @@
+# UUID no-hyphen 32-hex, value discarded
+
+UUID no-hyphen 32-hex, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-nhex/mcp)
