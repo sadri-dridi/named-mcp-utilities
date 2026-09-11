@@ -1,0 +1,6 @@
+# FBX header magic, file discarded
+
+FBX header magic, file discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fbx-ok/mcp)
