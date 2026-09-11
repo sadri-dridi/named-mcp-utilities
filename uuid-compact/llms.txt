@@ -1,0 +1,6 @@
+# UUID no-hyphen lowercase, value discarded
+
+UUID no-hyphen lowercase, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-compact/mcp)

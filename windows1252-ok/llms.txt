@@ -1,0 +1,6 @@
+# Windows-1252 C1 band, input discarded
+
+Windows-1252 C1 band, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/windows1252-ok/mcp)

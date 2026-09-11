@@ -1,0 +1,6 @@
+# Snowflake timestamp bits, value discarded
+
+Snowflake timestamp bits, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snowflake-ts2/mcp)

@@ -1,0 +1,6 @@
+# Wikidata Q-id shape, value discarded
+
+Wikidata Q-id shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wikidata-ok/mcp)

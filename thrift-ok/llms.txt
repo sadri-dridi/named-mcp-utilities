@@ -1,0 +1,6 @@
+# Thrift field-id count, body discarded
+
+Thrift field-id count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/thrift-ok/mcp)

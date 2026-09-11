@@ -1,0 +1,6 @@
+# RPM to rad/s, number discarded
+
+RPM to rad/s, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rpm-rad/mcp)
