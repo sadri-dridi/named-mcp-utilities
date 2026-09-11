@@ -1,0 +1,6 @@
+# filename stem charset, value discarded
+
+filename stem charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/file-stem-ok/mcp)
