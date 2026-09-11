@@ -1,0 +1,6 @@
+# APK ZIP local-file count, bytes discarded
+
+APK ZIP local-file count, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/apk-ok/mcp)

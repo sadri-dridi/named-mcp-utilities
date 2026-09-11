@@ -1,0 +1,6 @@
+# BER identifier octet, bytes discarded
+
+BER identifier octet, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ber-ok/mcp)
