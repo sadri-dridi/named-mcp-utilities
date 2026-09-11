@@ -1,0 +1,6 @@
+# IDNA2008 A-label shape, host discarded
+
+IDNA2008 A-label shape, host discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/puny2008-ok/mcp)

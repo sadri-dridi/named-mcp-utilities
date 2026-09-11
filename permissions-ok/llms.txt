@@ -1,0 +1,6 @@
+# Permissions-Policy directive count, value discarded
+
+Permissions-Policy directive count, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/permissions-ok/mcp)
