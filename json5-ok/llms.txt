@@ -1,0 +1,6 @@
+# JSON5 comment/key shape, body discarded
+
+JSON5 comment/key shape, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json5-ok/mcp)
