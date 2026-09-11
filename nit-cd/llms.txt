@@ -1,0 +1,6 @@
+# Nits to cd/m2, number discarded
+
+Nits to cd/m2, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nit-cd/mcp)

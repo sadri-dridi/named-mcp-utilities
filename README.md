@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [S-expression paren count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sexp-ok/mcp) — `io.github.sadri-dridi/sexp-ok`
-- [WADL resource count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wadl-ok/mcp) — `io.github.sadri-dridi/wadl-ok`
-- [WASM magic version, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wasm-ok/mcp) — `io.github.sadri-dridi/wasm-ok`
-- [Bencode integer/dict prefix, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bencode-ok/mcp) — `io.github.sadri-dridi/bencode-ok`
-- [BinHex 4 colon frame, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/binhex4-ok/mcp) — `io.github.sadri-dridi/binhex4-ok`
-- [Braille pattern count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/braille-ok/mcp) — `io.github.sadri-dridi/braille-ok`
-- [Survey links to meters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/link-m/mcp) — `io.github.sadri-dridi/link-m`
-- [Lux to phot, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/lux-ph/mcp) — `io.github.sadri-dridi/lux-ph`
-- [Mils to millimeters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mil-mm/mcp) — `io.github.sadri-dridi/mil-mm`
-- [UUID v2 DCE layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid2-ok/mcp) — `io.github.sadri-dridi/uuid2-ok`
-- [UUID v3 MD5-name layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid3-ok/mcp) — `io.github.sadri-dridi/uuid3-ok`
-- [UUID v5 SHA1-name layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid5-ok/mcp) — `io.github.sadri-dridi/uuid5-ok`
-- [Set-Cookie attribute count, values discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/set-cookie/mcp) — `io.github.sadri-dridi/set-cookie`
-- [Warning warn-code band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/warning-ok/mcp) — `io.github.sadri-dridi/warning-ok`
-- [Content-Disposition filename charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/download-ok/mcp) — `io.github.sadri-dridi/download-ok`
-- [FNV-1a 64-bit hex, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/fnv1a64-ok/mcp) — `io.github.sadri-dridi/fnv1a64-ok`
-- [MetroHash64 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/metro64-ok/mcp) — `io.github.sadri-dridi/metro64-ok`
-- [MurmurHash3 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/murmur3-ok/mcp) — `io.github.sadri-dridi/murmur3-ok`
-- [Hijri year band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hijri-ok/mcp) — `io.github.sadri-dridi/hijri-ok`
-- [Gregorian century band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/century-n/mcp) — `io.github.sadri-dridi/century-n`
-- [Coptic year band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/coptic-ok/mcp) — `io.github.sadri-dridi/coptic-ok`
-- [at-handle token count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/handle-n/mcp) — `io.github.sadri-dridi/handle-n`
-- [ISO-8859-1 byte count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/latin1-n/mcp) — `io.github.sadri-dridi/latin1-n`
-- [punctuation charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/punct-ok/mcp) — `io.github.sadri-dridi/punct-ok`
+- [WSDL operation count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wsdl-ok/mcp) — `io.github.sadri-dridi/wsdl-ok`
+- [Java class CAFEBABE, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/class-ok/mcp) — `io.github.sadri-dridi/class-ok`
+- [crate metadata name shape, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crate-ok/mcp) — `io.github.sadri-dridi/crate-ok`
+- [GB18030 4-byte band, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gb18030-ok/mcp) — `io.github.sadri-dridi/gb18030-ok`
+- [ISO-2022 ESC sequence count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso2022-ok/mcp) — `io.github.sadri-dridi/iso2022-ok`
+- [maildir info-flag charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/maildir-ok/mcp) — `io.github.sadri-dridi/maildir-ok`
+- [Miles/h to m/s, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mph-ms/mcp) — `io.github.sadri-dridi/mph-ms`
+- [Nits to cd/m2, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/nit-cd/mcp) — `io.github.sadri-dridi/nit-cd`
+- [Cables to meters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cable-m/mcp) — `io.github.sadri-dridi/cable-m`
+- [UUID v7 unix-ms layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid7-ok/mcp) — `io.github.sadri-dridi/uuid7-ok`
+- [did:webvh SCID shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/did-webvh/mcp) — `io.github.sadri-dridi/did-webvh`
+- [gitoid:sha256 shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gitoid-ok/mcp) — `io.github.sadri-dridi/gitoid-ok`
+- [Referrer-Policy token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/referrer-ok/mcp) — `io.github.sadri-dridi/referrer-ok`
+- [TE trailers token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/te-trailers/mcp) — `io.github.sadri-dridi/te-trailers`
+- [Transfer-Encoding chunked token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/transfer-ok/mcp) — `io.github.sadri-dridi/transfer-ok`
+- [HMAC-SHA256 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hmac-sha256/mcp) — `io.github.sadri-dridi/hmac-sha256`
+- [Poly1305 tag length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/poly1305-ok/mcp) — `io.github.sadri-dridi/poly1305-ok`
+- [SHAKE128 hex length band, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shake128-ok/mcp) — `io.github.sadri-dridi/shake128-ok`
+- [Hebrew month 1-13 band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hebrew-mo/mcp) — `io.github.sadri-dridi/hebrew-mo`
+- [Hebrew year band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hebrew-ok/mcp) — `io.github.sadri-dridi/hebrew-ok`
+- [Indian national year band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/indian-ok/mcp) — `io.github.sadri-dridi/indian-ok`
+- [SEDOL 7-char charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sedol-ok/mcp) — `io.github.sadri-dridi/sedol-ok`
+- [slash-separated charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/slash-ok/mcp) — `io.github.sadri-dridi/slash-ok`
+- [whitespace-token charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/token-ok/mcp) — `io.github.sadri-dridi/token-ok`

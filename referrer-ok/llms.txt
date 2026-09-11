@@ -1,0 +1,6 @@
+# Referrer-Policy token, value discarded
+
+Referrer-Policy token, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/referrer-ok/mcp)
