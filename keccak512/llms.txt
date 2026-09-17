@@ -1,0 +1,6 @@
+# Keccak-512 hex length, input discarded
+
+Keccak-512 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/keccak512/mcp)

@@ -1,0 +1,6 @@
+# sentence count, text discarded
+
+sentence count, text discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sent-ok2/mcp)

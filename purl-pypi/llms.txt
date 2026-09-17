@@ -1,0 +1,6 @@
+# pkg:pypi package-url shape, value discarded
+
+pkg:pypi package-url shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/purl-pypi/mcp)

@@ -1,0 +1,6 @@
+# UTF-1 signature bytes, input discarded
+
+UTF-1 signature bytes, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf1-sig/mcp)

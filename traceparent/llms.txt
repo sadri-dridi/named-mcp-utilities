@@ -1,0 +1,6 @@
+# W3C traceparent 4-part shape, value discarded
+
+W3C traceparent 4-part shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/traceparent/mcp)

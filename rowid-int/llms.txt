@@ -1,0 +1,6 @@
+# integer rowid band, value discarded
+
+integer rowid band, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rowid-int/mcp)
