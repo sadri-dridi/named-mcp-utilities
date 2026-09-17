@@ -1,0 +1,6 @@
+# Accept-Post media-type count, value discarded
+
+Accept-Post media-type count, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/accept-post/mcp)

@@ -1,0 +1,6 @@
+# HZ-GB ~{ ~} frame, input discarded
+
+HZ-GB ~{ ~} frame, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hz-gb-ok/mcp)

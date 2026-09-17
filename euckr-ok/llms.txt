@@ -1,0 +1,6 @@
+# EUC-KR lead-byte band, bytes discarded
+
+EUC-KR lead-byte band, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/euckr-ok/mcp)

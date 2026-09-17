@@ -1,0 +1,6 @@
+# Kips to kilograms, number discarded
+
+Kips to kilograms, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/kip-kg/mcp)

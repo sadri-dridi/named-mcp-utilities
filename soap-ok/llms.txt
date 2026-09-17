@@ -1,0 +1,6 @@
+# SOAP Envelope shape, markup discarded
+
+SOAP Envelope shape, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/soap-ok/mcp)
