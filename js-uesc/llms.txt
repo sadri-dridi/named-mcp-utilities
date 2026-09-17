@@ -1,0 +1,6 @@
+# JS unicode-escape count, input discarded
+
+JS unicode-escape count, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/js-uesc/mcp)

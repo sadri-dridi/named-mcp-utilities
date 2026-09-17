@@ -1,0 +1,6 @@
+# MD6 hex length, input discarded
+
+MD6 hex length, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/md6-len/mcp)

@@ -1,0 +1,6 @@
+# CORP same-origin/same-site token, value discarded
+
+CORP same-origin/same-site token, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/corp-same/mcp)
