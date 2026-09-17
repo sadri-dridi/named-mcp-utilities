@@ -1,0 +1,6 @@
+# Mechanical horsepower to kW, number discarded
+
+Mechanical horsepower to kW, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hp-kw/mcp)

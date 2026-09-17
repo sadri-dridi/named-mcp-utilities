@@ -1,0 +1,6 @@
+# Motorola S-record count, input discarded
+
+Motorola S-record count, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/srec-ok/mcp)

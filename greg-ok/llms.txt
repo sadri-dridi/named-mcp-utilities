@@ -1,0 +1,6 @@
+# Gregorian Y-M-D shape, value discarded
+
+Gregorian Y-M-D shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/greg-ok/mcp)
