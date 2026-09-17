@@ -1,0 +1,6 @@
+# Mac Central Europe high-bit band, bytes discarded
+
+Mac Central Europe high-bit band, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/macce-ok/mcp)

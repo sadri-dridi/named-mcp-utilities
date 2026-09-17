@@ -1,0 +1,6 @@
+# Content-Location URL shape, value discarded
+
+Content-Location URL shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/content-loc/mcp)

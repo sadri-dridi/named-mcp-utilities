@@ -1,0 +1,6 @@
+# Hydra operation count, body discarded
+
+Hydra operation count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hydra-ok/mcp)
