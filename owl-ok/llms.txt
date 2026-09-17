@@ -1,0 +1,6 @@
+# OWL class axiom count, body discarded
+
+OWL class axiom count, body discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/owl-ok/mcp)

@@ -1,0 +1,6 @@
+# Cross-Origin-Opener-Policy token, value discarded
+
+Cross-Origin-Opener-Policy token, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/coop-ok/mcp)

@@ -1,0 +1,6 @@
+# Whether current UTC month is NZ DST-heavy
+
+Whether current UTC month is NZ DST-heavy
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dst-nz/mcp)

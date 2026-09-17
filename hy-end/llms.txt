@@ -1,0 +1,6 @@
+# UTC last day of the current half-year
+
+UTC last day of the current half-year
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hy-end/mcp)
