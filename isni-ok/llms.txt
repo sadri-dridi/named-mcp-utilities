@@ -1,0 +1,6 @@
+# ISNI 16-digit shape, value discarded
+
+ISNI 16-digit shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isni-ok/mcp)

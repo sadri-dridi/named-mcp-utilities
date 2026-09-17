@@ -1,0 +1,6 @@
+# Google UUID timeuuid layout, value discarded
+
+Google UUID timeuuid layout, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/guuid-ok/mcp)

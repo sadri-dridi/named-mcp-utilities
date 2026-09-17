@@ -1,0 +1,6 @@
+# ISRC 12-char shape, value discarded
+
+ISRC 12-char shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isrc-ok/mcp)

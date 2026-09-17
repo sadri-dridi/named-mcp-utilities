@@ -1,0 +1,6 @@
+# Early-Data 1 token, value discarded
+
+Early-Data 1 token, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/early-data/mcp)

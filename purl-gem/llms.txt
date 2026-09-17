@@ -1,0 +1,6 @@
+# pkg:gem package-url shape, value discarded
+
+pkg:gem package-url shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/purl-gem/mcp)

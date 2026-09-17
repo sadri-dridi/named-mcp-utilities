@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [UML XMI packagedElement count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uml-ok/mcp) — `io.github.sadri-dridi/uml-ok`
-- [XML Schema element count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xsd-ok/mcp) — `io.github.sadri-dridi/xsd-ok`
-- [ABNF rule count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/abnf-ok/mcp) — `io.github.sadri-dridi/abnf-ok`
-- [SCSU window-tag count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/scsu-ok/mcp) — `io.github.sadri-dridi/scsu-ok`
-- [Motorola S-record count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/srec-ok/mcp) — `io.github.sadri-dridi/srec-ok`
-- [UTF-8 non-ASCII byte count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf8-nb/mcp) — `io.github.sadri-dridi/utf8-nb`
-- [Ems at 12pt to millimeters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/em-mm/mcp) — `io.github.sadri-dridi/em-mm`
-- [Ens at 12pt to millimeters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/en-mm/mcp) — `io.github.sadri-dridi/en-mm`
-- [Mechanical horsepower to kW, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hp-kw/mcp) — `io.github.sadri-dridi/hp-kw`
-- [XID Base32 charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xid-b32/mcp) — `io.github.sadri-dridi/xid-b32`
-- [XID 24-hex shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xid-hex/mcp) — `io.github.sadri-dridi/xid-hex`
-- [reverse COMB UUID layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/comb-rev/mcp) — `io.github.sadri-dridi/comb-rev`
-- [CSP-Report-Only directive count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/csp-ro-ok/mcp) — `io.github.sadri-dridi/csp-ro-ok`
-- [Server product-token count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/server-ok/mcp) — `io.github.sadri-dridi/server-ok`
-- [ALPN h2/http/1.1 token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/alpn-h2-ok/mcp) — `io.github.sadri-dridi/alpn-h2-ok`
-- [XXH3-64 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xxh3-64/mcp) — `io.github.sadri-dridi/xxh3-64`
-- [CRC-24 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc24-ok/mcp) — `io.github.sadri-dridi/crc24-ok`
-- [CRC-64 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/crc64-ok/mcp) — `io.github.sadri-dridi/crc64-ok`
-- [Gregorian Y-M-D shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/greg-ok/mcp) — `io.github.sadri-dridi/greg-ok`
-- [UTC ISO semester 1-2](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-sem/mcp) — `io.github.sadri-dridi/iso-sem`
-- [JDN modulo 7 weekday band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jdn-mod/mcp) — `io.github.sadri-dridi/jdn-mod`
-- [comma-separated token count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/comma-n/mcp) — `io.github.sadri-dridi/comma-n`
-- [DOI 10. prefix shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/doi-ok2/mcp) — `io.github.sadri-dridi/doi-ok2`
-- [https://doi.org/ URL shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/doi-url/mcp) — `io.github.sadri-dridi/doi-url`
+- [EBNF production count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ebnf-ok/mcp) — `io.github.sadri-dridi/ebnf-ok`
+- [JATS article-id count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jats-ok/mcp) — `io.github.sadri-dridi/jats-ok`
+- [MODS titleInfo count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/mods-ok/mcp) — `io.github.sadri-dridi/mods-ok`
+- [C octal-escape count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/c-octesc/mcp) — `io.github.sadri-dridi/c-octesc`
+- [CP437 box-draw band, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cp437-ok/mcp) — `io.github.sadri-dridi/cp437-ok`
+- [CP850 high-bit band, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cp850-ok/mcp) — `io.github.sadri-dridi/cp850-ok`
+- [Cement bags to cubic meters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bag-m3/mcp) — `io.github.sadri-dridi/bag-m3`
+- [Brake horsepower to kW, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bhp-kw/mcp) — `io.github.sadri-dridi/bhp-kw`
+- [BTU to watt-hours, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/btu-wh/mcp) — `io.github.sadri-dridi/btu-wh`
+- [Google UUID timeuuid layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/guuid-ok/mcp) — `io.github.sadri-dridi/guuid-ok`
+- [pkg:gem package-url shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/purl-gem/mcp) — `io.github.sadri-dridi/purl-gem`
+- [pkg:npm package-url shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/purl-npm/mcp) — `io.github.sadri-dridi/purl-npm`
+- [Early-Data 1 token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/early-data/mcp) — `io.github.sadri-dridi/early-data`
+- [ALPN h3 token, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/h3-alpn-ok/mcp) — `io.github.sadri-dridi/h3-alpn-ok`
+- [:path absolute-path shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/path-h2-ok/mcp) — `io.github.sadri-dridi/path-h2-ok`
+- [MurmurHash3-32 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/murmur32/mcp) — `io.github.sadri-dridi/murmur32`
+- [scrypt N cost band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/scrypt-n/mcp) — `io.github.sadri-dridi/scrypt-n`
+- [SHA-1 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha1-len/mcp) — `io.github.sadri-dridi/sha1-len`
+- [UTC second day of the current month](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/month-2/mcp) — `io.github.sadri-dridi/month-2`
+- [UTC millisecond 0-999 band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ms-utc2/mcp) — `io.github.sadri-dridi/ms-utc2`
+- [UTC second 0-60 band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sec-utc/mcp) — `io.github.sadri-dridi/sec-utc`
+- [ISNI 16-digit shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isni-ok/mcp) — `io.github.sadri-dridi/isni-ok`
+- [ISRC 12-char shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/isrc-ok/mcp) — `io.github.sadri-dridi/isrc-ok`
+- [ISWC T- shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iswc-ok/mcp) — `io.github.sadri-dridi/iswc-ok`

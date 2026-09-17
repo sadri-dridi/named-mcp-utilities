@@ -1,0 +1,6 @@
+# scrypt N cost band, value discarded
+
+scrypt N cost band, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/scrypt-n/mcp)

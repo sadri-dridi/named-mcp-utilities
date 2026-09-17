@@ -1,0 +1,6 @@
+# JATS article-id count, markup discarded
+
+JATS article-id count, markup discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/jats-ok/mcp)
