@@ -1,0 +1,6 @@
+# k-anonymity 5-hex prefix, value discarded
+
+k-anonymity 5-hex prefix, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hibp-k/mcp)

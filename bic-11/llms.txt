@@ -1,0 +1,6 @@
+# BIC 11-char shape, value discarded
+
+BIC 11-char shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bic-11/mcp)

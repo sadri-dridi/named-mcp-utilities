@@ -1,0 +1,6 @@
+# GBK lead-byte band, bytes discarded
+
+GBK lead-byte band, bytes discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gbk-ok/mcp)
