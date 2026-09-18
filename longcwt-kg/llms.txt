@@ -1,0 +1,6 @@
+# Long hundredweight to kilograms, number discarded
+
+Long hundredweight to kilograms, number discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/longcwt-kg/mcp)

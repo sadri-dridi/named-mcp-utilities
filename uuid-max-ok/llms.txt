@@ -1,0 +1,6 @@
+# UUID max (all-ones) shape
+
+UUID max (all-ones) shape
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-max-ok/mcp)
