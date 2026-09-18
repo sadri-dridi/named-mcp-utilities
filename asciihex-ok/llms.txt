@@ -1,0 +1,6 @@
+# Intel HEX record count, input discarded
+
+Intel HEX record count, input discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/asciihex-ok/mcp)

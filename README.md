@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [SysML block count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sysml-ok/mcp) — `io.github.sadri-dridi/sysml-ok`
-- [WSDL 2.0 interface count, markup discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/wsdl2-ok/mcp) — `io.github.sadri-dridi/wsdl2-ok`
-- [BBCode tag count, body discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bbcode-ok/mcp) — `io.github.sadri-dridi/bbcode-ok`
-- [Python string escape count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/py-esc-n/mcp) — `io.github.sadri-dridi/py-esc-n`
-- [SCSU BOM presence, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/scsu-sig/mcp) — `io.github.sadri-dridi/scsu-sig`
-- [UTF-1 signature bytes, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf1-sig/mcp) — `io.github.sadri-dridi/utf1-sig`
-- [Imperial cups to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cup-imp/mcp) — `io.github.sadri-dridi/cup-imp`
-- [Culinary dashes to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dash-ml/mcp) — `io.github.sadri-dridi/dash-ml`
-- [US fluid drams to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/dram-ml/mcp) — `io.github.sadri-dridi/dram-ml`
-- [KSUID payload charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ksuid-pay/mcp) — `io.github.sadri-dridi/ksuid-pay`
-- [pkg:pypi package-url shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/purl-pypi/mcp) — `io.github.sadri-dridi/purl-pypi`
-- [integer rowid band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rowid-int/mcp) — `io.github.sadri-dridi/rowid-int`
-- [If-Range etag-or-date shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/if-range-ok/mcp) — `io.github.sadri-dridi/if-range-ok`
-- [Priority u=/i= pair count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/priority-ok/mcp) — `io.github.sadri-dridi/priority-ok`
-- [W3C traceparent 4-part shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/traceparent/mcp) — `io.github.sadri-dridi/traceparent`
-- [Keccak-256 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/keccak256/mcp) — `io.github.sadri-dridi/keccak256`
-- [Keccak-512 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/keccak512/mcp) — `io.github.sadri-dridi/keccak512`
-- [MurmurHash3-128 hex length, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/murmur128/mcp) — `io.github.sadri-dridi/murmur128`
-- [UTC first day of the current quarter](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/q-start2/mcp) — `io.github.sadri-dridi/q-start2`
-- [Reiwa year from UTC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/reiwa-yr/mcp) — `io.github.sadri-dridi/reiwa-yr`
-- [Whether UTC second can be 60](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sec-leap/mcp) — `io.github.sadri-dridi/sec-leap`
-- [pipe token count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pipe-seg/mcp) — `io.github.sadri-dridi/pipe-seg`
-- [semicolon token count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/semi-seg/mcp) — `io.github.sadri-dridi/semi-seg`
-- [sentence count, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sent-ok2/mcp) — `io.github.sadri-dridi/sent-ok2`
+- [UTF-16LE BOM presence, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf16le-ok/mcp) — `io.github.sadri-dridi/utf16le-ok`
+- [UTF-32BE BOM presence, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf32be-ok/mcp) — `io.github.sadri-dridi/utf32be-ok`
+- [UTF-32LE BOM presence, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf32le-ok/mcp) — `io.github.sadri-dridi/utf32le-ok`
+- [Nepers to decibels, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/neper-db/mcp) — `io.github.sadri-dridi/neper-db`
+- [Culinary pinches to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pinch-ml/mcp) — `io.github.sadri-dridi/pinch-ml`
+- [Stones to pounds, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/stone-lb/mcp) — `io.github.sadri-dridi/stone-lb`
+- [Firebase push-id entropy charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pushid-rand/mcp) — `io.github.sadri-dridi/pushid-rand`
+- [Sqids blocklist-safe charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sqids-block/mcp) — `io.github.sadri-dridi/sqids-block`
+- [SSRI sha384 digest shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ssri-sha384/mcp) — `io.github.sadri-dridi/ssri-sha384`
+- [Islamic calendar month 1-12 band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/islamic-ok/mcp) — `io.github.sadri-dridi/islamic-ok`
+- [UTC ISO decade start year](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-decade/mcp) — `io.github.sadri-dridi/iso-decade`
+- [Whether current UTC year has 52 ISO weeks](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-week52/mcp) — `io.github.sadri-dridi/iso-week52`
+- [snake_case segment count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snake-ok2/mcp) — `io.github.sadri-dridi/snake-ok2`
+- [snake_case segment count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snake-seg/mcp) — `io.github.sadri-dridi/snake-seg`
+- [Title Case token length band, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/title-run/mcp) — `io.github.sadri-dridi/title-run`
+- [UTF-8 BOM presence, bytes discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf8sig-ok/mcp) — `io.github.sadri-dridi/utf8sig-ok`
+- [XML numeric-entity count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/xml-numesc/mcp) — `io.github.sadri-dridi/xml-numesc`
+- [z-base-32 charset, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/zbase32-ok/mcp) — `io.github.sadri-dridi/zbase32-ok`
+- [Ascii85 <~ ~> frame, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ascii85-ok2/mcp) — `io.github.sadri-dridi/ascii85-ok2`
+- [Intel HEX record count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/asciihex-ok/mcp) — `io.github.sadri-dridi/asciihex-ok`
+- [HTML numeric-entity count, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/html-numesc/mcp) — `io.github.sadri-dridi/html-numesc`
+- [Imperial tablespoons to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tbsp-imp/mcp) — `io.github.sadri-dridi/tbsp-imp`
+- [Therms to megajoules, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/therm-mj/mcp) — `io.github.sadri-dridi/therm-mj`
+- [Tonnes to kilograms, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tonne-kg/mcp) — `io.github.sadri-dridi/tonne-kg`
