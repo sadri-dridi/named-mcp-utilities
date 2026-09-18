@@ -1,0 +1,6 @@
+# shortuuid hex charset, value discarded
+
+shortuuid hex charset, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shortuuid-hex/mcp)

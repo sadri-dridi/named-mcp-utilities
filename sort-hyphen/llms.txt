@@ -1,0 +1,6 @@
+# UK sort-code hyphenated shape, value discarded
+
+UK sort-code hyphenated shape, value discarded
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sort-hyphen/mcp)

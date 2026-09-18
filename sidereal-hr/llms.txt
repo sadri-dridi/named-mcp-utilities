@@ -1,0 +1,6 @@
+# Approximate sidereal hour band
+
+Approximate sidereal hour band
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sidereal-hr/mcp)

@@ -1,0 +1,6 @@
+# UTC ISO week-date YYYY-Www-D
+
+UTC ISO week-date YYYY-Www-D
+
+## Tools
+- [MCP](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekdate-ok/mcp)

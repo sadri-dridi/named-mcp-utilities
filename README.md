@@ -2,27 +2,27 @@
 
 Independently listed public MCP servers for autonomous clients. Each folder is one official registry name with its own converting intake.
 
-- [form-urlencoded percent/plus mix, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/percent-plus/mcp) — `io.github.sadri-dridi/percent-plus`
-- [UTF-EBCDIC signature, input discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utfebcdic-ok/mcp) — `io.github.sadri-dridi/utfebcdic-ok`
-- [Tons of refrigeration to kW, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/tonref-kw/mcp) — `io.github.sadri-dridi/tonref-kw`
-- [Wine gallons to liters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/winegal-l/mcp) — `io.github.sadri-dridi/winegal-l`
-- [Board feet to cubic meters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/boardft-m3/mcp) — `io.github.sadri-dridi/boardft-m3`
-- [ULID Crockford no-hyphen, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/ulid-crock2/mcp) — `io.github.sadri-dridi/ulid-crock2`
-- [UUID max (all-ones) shape](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-max-ok/mcp) — `io.github.sadri-dridi/uuid-max-ok`
-- [PostgreSQL bigserial band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bigserial-ok/mcp) — `io.github.sadri-dridi/bigserial-ok`
-- [Mean solar noon UTC-hour band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/solar-noon/mcp) — `io.github.sadri-dridi/solar-noon`
-- [Unix seconds to ISO week-date](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-iso-w/mcp) — `io.github.sadri-dridi/unix-iso-w`
-- [Buddhist era year from UTC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/buddhist-yr/mcp) — `io.github.sadri-dridi/buddhist-yr`
-- [UPC-A check-digit shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/upc-check/mcp) — `io.github.sadri-dridi/upc-check`
-- [UPPERCASE run length band, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/upper-run/mcp) — `io.github.sadri-dridi/upper-run`
-- [UTF-16 code-unit run, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utf16-run/mcp) — `io.github.sadri-dridi/utf16-run`
-- [Long hundredweight to kilograms, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/longcwt-kg/mcp) — `io.github.sadri-dridi/longcwt-kg`
-- [Imperial pints to liters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pint-imp-l/mcp) — `io.github.sadri-dridi/pint-imp-l`
-- [Register tons to cubic meters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/register-t/mcp) — `io.github.sadri-dridi/register-t`
-- [Smidgens to milliliters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/smidgen-ml/mcp) — `io.github.sadri-dridi/smidgen-ml`
-- [Imperial quarts to liters, number discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/quart-imp-l/mcp) — `io.github.sadri-dridi/quart-imp-l`
-- [pg bigserial 64-bit band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/bigserial-pg/mcp) — `io.github.sadri-dridi/bigserial-pg`
-- [Hashids alphabet length, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hashids-salt/mcp) — `io.github.sadri-dridi/hashids-salt`
-- [Instagram-style shard id shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/instagram-id/mcp) — `io.github.sadri-dridi/instagram-id`
-- [multihash identity codec, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/multihash-id/mcp) — `io.github.sadri-dridi/multihash-id`
-- [Mongo ObjectId base64 shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/objectid-b64/mcp) — `io.github.sadri-dridi/objectid-b64`
+- [shortuuid hex charset, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/shortuuid-hex/mcp) — `io.github.sadri-dridi/shortuuid-hex`
+- [Snowflake sequence bits, id discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snowflake-seq/mcp) — `io.github.sadri-dridi/snowflake-seq`
+- [Cassandra unixTimeUUID layout, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/timeuuid-unix/mcp) — `io.github.sadri-dridi/timeuuid-unix`
+- [Whether Hebrew year is embolismic](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/hebrew-leap/mcp) — `io.github.sadri-dridi/hebrew-leap`
+- [Whether Indian national year is leap](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/indian-leap/mcp) — `io.github.sadri-dridi/indian-leap`
+- [UTC ISO week-year century](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-century/mcp) — `io.github.sadri-dridi/iso-century`
+- [PascalCase hump count, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/pascal-hump/mcp) — `io.github.sadri-dridi/pascal-hump`
+- [UK sort-code hyphenated shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sort-hyphen/mcp) — `io.github.sadri-dridi/sort-hyphen`
+- [UK sort code 6-digit shape, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sortcode-ok/mcp) — `io.github.sadri-dridi/sortcode-ok`
+- [TypeID base32 suffix, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/typeid-suffix/mcp) — `io.github.sadri-dridi/typeid-suffix`
+- [Discord snowflake worker bits, id discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/discord-worker/mcp) — `io.github.sadri-dridi/discord-worker`
+- [MSSQL IDENTITY integer band, value discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/identity-mssql/mcp) — `io.github.sadri-dridi/identity-mssql`
+- [Japanese era year band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/japanese-ok/mcp) — `io.github.sadri-dridi/japanese-ok`
+- [Julian leap-year check from UTC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/julian-leap/mcp) — `io.github.sadri-dridi/julian-leap`
+- [Approximate sidereal hour band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sidereal-hr/mcp) — `io.github.sadri-dridi/sidereal-hr`
+- [Whether current UTC month is a solstice month](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/solstice-ok/mcp) — `io.github.sadri-dridi/solstice-ok`
+- [grapheme-cluster run, text discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/grapheme-run/mcp) — `io.github.sadri-dridi/grapheme-run`
+- [Discordian season 1-5 band](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/discordian-ok/mcp) — `io.github.sadri-dridi/discordian-ok`
+- [UTC ISO week-date YYYY-Www-D](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/weekdate-ok/mcp) — `io.github.sadri-dridi/weekdate-ok`
+- [Civil twilight hour-band UTC](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/twilight-ok/mcp) — `io.github.sadri-dridi/twilight-ok`
+- [UTC Thursday of the current ISO week](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iso-week-thu/mcp) — `io.github.sadri-dridi/iso-week-thu`
+- [Snowflake worker-id bits, id discarded](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/snowflake-worker/mcp) — `io.github.sadri-dridi/snowflake-worker`
+- [Whether Islamic year is leap](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/islamic-leap/mcp) — `io.github.sadri-dridi/islamic-leap`
+- [Whether Persian year is leap](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/persian-leap/mcp) — `io.github.sadri-dridi/persian-leap`
